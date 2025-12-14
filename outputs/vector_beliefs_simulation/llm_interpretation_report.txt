@@ -1,0 +1,818 @@
+================================================================================
+LLM INTERPRETATION REPORT: BELIEF VECTORS TO TEXT
+================================================================================
+
+Generated: 2025-12-14T12:00:42.742310
+Total Personas: 100
+Sample Size: 5
+Random Seed: 42
+
+================================================================================
+PERSONA 1 (Index 83)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 16, Gender: Male, Race: Hispanic
+  GPA: 2.44, Mental Health: Good
+  Social Media: Almost Constant
+  College Intention: Other
+  Family Income: $183,123
+
+LLM INTERPRETATIONS OF BELIEF VECTOR:
+
+  How important is college to your future?:
+    Belief: This student views college as somewhat important for their future, reflecting a balanced perspective that acknowledges its value but does not prioritize it above all else. Their GPA of 2.44 may indicate some uncertainty about their academic readiness or motivation for college.
+    Certainty: medium
+    Demographic Influence: Coming from a family with a high income and being a first-generation college student may lead to mixed feelings about college, as they might feel pressure to succeed while also being aware of alternative paths.
+
+  Do you feel social media increases stress?:
+    Belief: The student somewhat disagrees with the notion that social media increases stress, suggesting they may find social media to be a positive outlet or a source of connection rather than a burden. This perspective may indicate a level of comfort with their online presence.
+    Certainty: medium
+    Demographic Influence: As a male teenager who identifies as LGBTQ+, social media might serve as a vital space for community and support, potentially mitigating stress compared to peers who may not have similar experiences.
+
+  Would you support later school start times?:
+    Belief: The student supports later school start times, indicating a belief that such changes could benefit students' well-being and academic performance. This belief may reflect an understanding of the importance of sleep and its effects on learning.
+    Certainty: medium
+    Demographic Influence: Being a high school student involved in sports may lead them to recognize the physical and mental demands of their schedule, influencing their support for policies that promote better health and academic outcomes.
+
+FINAL SURVEY RESPONSES (Round 5):
+  How important is college to your future?: Somewhat Important
+  Do you feel social media increases stress?: Somewhat Agree
+  Would you support later school start times?: Support
+
+FINAL RESPONSE PROBABILITIES:
+  How important is college to your future?:
+    Somewhat Important: 25.4%
+    Not Important At All: 25.0%
+    Not Very Important: 25.0%
+    Very Important: 24.6%
+  Do you feel social media increases stress?:
+    Somewhat Disagree: 20.3%
+    Strongly Disagree: 20.3%
+    Somewhat Agree: 20.0%
+    Strongly Agree: 19.9%
+    Neither Agree nor Disagree: 19.5%
+  Would you support later school start times?:
+    Support: 21.1%
+    Oppose: 20.5%
+    Strongly Support: 20.3%
+    Strongly Oppose: 19.7%
+    Neutral: 18.4%
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+      Somewhat Important: 26 (26.0%)
+      Very Important: 22 (22.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+      Somewhat Important: 25 (25.0%)
+      Not Very Important: 22 (22.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 23 (23.0%)
+    Round 3:
+      Very Important: 27 (27.0%)
+      Not Important At All: 27 (27.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Very Important: 22 (22.0%)
+    Round 4:
+      Somewhat Important: 30 (30.0%)
+      Not Important At All: 29 (29.0%)
+      Not Very Important: 24 (24.0%)
+      Very Important: 17 (17.0%)
+    Round 5:
+      Very Important: 30 (30.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Important At All: 23 (23.0%)
+      Not Very Important: 23 (23.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+      Somewhat Agree: 18 (18.0%)
+      Somewhat Disagree: 17 (17.0%)
+      Neither Agree nor Disagree: 13 (13.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 20 (20.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 18 (18.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 19 (19.0%)
+      Somewhat Disagree: 15 (15.0%)
+    Round 3:
+      Strongly Agree: 30 (30.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Somewhat Disagree: 18 (18.0%)
+      Strongly Disagree: 17 (17.0%)
+      Somewhat Agree: 15 (15.0%)
+    Round 4:
+      Somewhat Agree: 23 (23.0%)
+      Strongly Agree: 21 (21.0%)
+      Somewhat Disagree: 19 (19.0%)
+      Neither Agree nor Disagree: 19 (19.0%)
+      Strongly Disagree: 18 (18.0%)
+    Round 5:
+      Neither Agree nor Disagree: 23 (23.0%)
+      Somewhat Agree: 23 (23.0%)
+      Strongly Disagree: 21 (21.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 14 (14.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Support: 14 (14.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 20 (20.0%)
+      Neutral: 20 (20.0%)
+      Support: 11 (11.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+      Support: 19 (19.0%)
+      Strongly Support: 15 (15.0%)
+      Oppose: 14 (14.0%)
+    Round 3:
+      Strongly Oppose: 23 (23.0%)
+      Support: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 16 (16.0%)
+    Round 4:
+      Support: 26 (26.0%)
+      Oppose: 23 (23.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 17 (17.0%)
+      Strongly Oppose: 16 (16.0%)
+    Round 5:
+      Support: 25 (25.0%)
+      Neutral: 24 (24.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Strongly Support: 13 (13.0%)
+
+================================================================================
+PERSONA 2 (Index 53)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 18, Gender: Male, Race: White
+  GPA: 3.01, Mental Health: Poor
+  Social Media: High
+  College Intention: Other
+  Family Income: $13,077
+
+LLM INTERPRETATIONS OF BELIEF VECTOR:
+
+  How important is college to your future?:
+    Belief: This student believes that college is not very important for their future, indicating a sense of ambivalence or skepticism towards higher education. Their low GPA and first-generation college status may contribute to a belief that college may not be a necessary path for success.
+    Certainty: medium
+    Demographic Influence: Coming from a low-income background may lead to doubts about the feasibility of attending college, influencing their belief that it is not essential for their future.
+
+  Do you feel social media increases stress?:
+    Belief: The student somewhat agrees that social media increases stress, suggesting an awareness of the negative impacts of online interactions on their mental health. Given their poor mental health status, this belief may reflect their personal experiences with social media.
+    Certainty: medium
+    Demographic Influence: High social media intensity may exacerbate feelings of stress, especially for someone with poor mental health, leading to a more critical view of social media's role in their life.
+
+  Would you support later school start times?:
+    Belief: This student supports later school start times, indicating a belief that such changes could positively impact student well-being and academic performance. This belief may stem from their own experiences with stress and fatigue, particularly as a student with poor mental health.
+    Certainty: medium
+    Demographic Influence: As a high school student involved in sports, they may recognize the importance of adequate rest and recovery, influencing their support for later start times to improve overall student health.
+
+FINAL SURVEY RESPONSES (Round 5):
+  How important is college to your future?: Not Important At All
+  Do you feel social media increases stress?: Strongly Disagree
+  Would you support later school start times?: Strongly Oppose
+
+FINAL RESPONSE PROBABILITIES:
+  How important is college to your future?:
+    Not Very Important: 25.3%
+    Very Important: 25.3%
+    Somewhat Important: 24.8%
+    Not Important At All: 24.5%
+  Do you feel social media increases stress?:
+    Somewhat Agree: 20.6%
+    Strongly Agree: 20.3%
+    Somewhat Disagree: 19.9%
+    Neither Agree nor Disagree: 19.6%
+    Strongly Disagree: 19.6%
+  Would you support later school start times?:
+    Support: 20.8%
+    Neutral: 20.8%
+    Strongly Support: 20.1%
+    Strongly Oppose: 19.2%
+    Oppose: 19.1%
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+      Somewhat Important: 26 (26.0%)
+      Very Important: 22 (22.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+      Somewhat Important: 25 (25.0%)
+      Not Very Important: 22 (22.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 23 (23.0%)
+    Round 3:
+      Very Important: 27 (27.0%)
+      Not Important At All: 27 (27.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Very Important: 22 (22.0%)
+    Round 4:
+      Somewhat Important: 30 (30.0%)
+      Not Important At All: 29 (29.0%)
+      Not Very Important: 24 (24.0%)
+      Very Important: 17 (17.0%)
+    Round 5:
+      Very Important: 30 (30.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Important At All: 23 (23.0%)
+      Not Very Important: 23 (23.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+      Somewhat Agree: 18 (18.0%)
+      Somewhat Disagree: 17 (17.0%)
+      Neither Agree nor Disagree: 13 (13.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 20 (20.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 18 (18.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 19 (19.0%)
+      Somewhat Disagree: 15 (15.0%)
+    Round 3:
+      Strongly Agree: 30 (30.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Somewhat Disagree: 18 (18.0%)
+      Strongly Disagree: 17 (17.0%)
+      Somewhat Agree: 15 (15.0%)
+    Round 4:
+      Somewhat Agree: 23 (23.0%)
+      Strongly Agree: 21 (21.0%)
+      Somewhat Disagree: 19 (19.0%)
+      Neither Agree nor Disagree: 19 (19.0%)
+      Strongly Disagree: 18 (18.0%)
+    Round 5:
+      Neither Agree nor Disagree: 23 (23.0%)
+      Somewhat Agree: 23 (23.0%)
+      Strongly Disagree: 21 (21.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 14 (14.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Support: 14 (14.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 20 (20.0%)
+      Neutral: 20 (20.0%)
+      Support: 11 (11.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+      Support: 19 (19.0%)
+      Strongly Support: 15 (15.0%)
+      Oppose: 14 (14.0%)
+    Round 3:
+      Strongly Oppose: 23 (23.0%)
+      Support: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 16 (16.0%)
+    Round 4:
+      Support: 26 (26.0%)
+      Oppose: 23 (23.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 17 (17.0%)
+      Strongly Oppose: 16 (16.0%)
+    Round 5:
+      Support: 25 (25.0%)
+      Neutral: 24 (24.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Strongly Support: 13 (13.0%)
+
+================================================================================
+PERSONA 3 (Index 70)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 17, Gender: Male, Race: White
+  GPA: 2.54, Mental Health: Fair
+  Social Media: Moderate
+  College Intention: Other
+  Family Income: $59,816
+
+LLM INTERPRETATIONS OF BELIEF VECTOR:
+
+  How important is college to your future?:
+    Belief: This student believes that college is not important for their future, as indicated by their response of 'Not Important At All.' This perspective may stem from a lack of confidence in their academic abilities, reflected in their GPA of 2.54, which suggests they may not see higher education as a viable option for themselves.
+    Certainty: medium
+    Demographic Influence: Being a 17-year-old male from a moderate-income family, he might feel pressure to enter the workforce sooner rather than pursue further education, especially if he perceives college as unattainable.
+
+  Do you feel social media increases stress?:
+    Belief: The student feels neutral about the impact of social media on stress, as shown by their response of 'Neither Agree nor Disagree.' This ambivalence suggests they may recognize both positive and negative aspects of social media, but do not feel strongly either way, indicating a balanced view.
+    Certainty: medium
+    Demographic Influence: As a teenager with moderate social media intensity, he may be aware of the potential stressors but also values the social connections that platforms provide, reflecting a common duality in adolescent experiences.
+
+  Would you support later school start times?:
+    Belief: This student supports later school start times, indicating a belief that such changes could benefit students' well-being and academic performance. Their support suggests they may be aware of the challenges faced by students in managing early mornings and the potential impact on their mental health.
+    Certainty: medium
+    Demographic Influence: As a high school student involved in sports, he might recognize the physical and mental demands of balancing academics and athletics, leading him to advocate for changes that could enhance student performance and health.
+
+FINAL SURVEY RESPONSES (Round 5):
+  How important is college to your future?: Not Very Important
+  Do you feel social media increases stress?: Somewhat Disagree
+  Would you support later school start times?: Neutral
+
+FINAL RESPONSE PROBABILITIES:
+  How important is college to your future?:
+    Not Important At All: 25.7%
+    Somewhat Important: 25.1%
+    Not Very Important: 24.9%
+    Very Important: 24.4%
+  Do you feel social media increases stress?:
+    Neither Agree nor Disagree: 20.9%
+    Strongly Agree: 20.2%
+    Somewhat Agree: 20.0%
+    Strongly Disagree: 19.5%
+    Somewhat Disagree: 19.4%
+  Would you support later school start times?:
+    Support: 21.5%
+    Strongly Support: 20.9%
+    Strongly Oppose: 19.5%
+    Oppose: 19.5%
+    Neutral: 18.7%
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+      Somewhat Important: 26 (26.0%)
+      Very Important: 22 (22.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+      Somewhat Important: 25 (25.0%)
+      Not Very Important: 22 (22.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 23 (23.0%)
+    Round 3:
+      Very Important: 27 (27.0%)
+      Not Important At All: 27 (27.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Very Important: 22 (22.0%)
+    Round 4:
+      Somewhat Important: 30 (30.0%)
+      Not Important At All: 29 (29.0%)
+      Not Very Important: 24 (24.0%)
+      Very Important: 17 (17.0%)
+    Round 5:
+      Very Important: 30 (30.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Important At All: 23 (23.0%)
+      Not Very Important: 23 (23.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+      Somewhat Agree: 18 (18.0%)
+      Somewhat Disagree: 17 (17.0%)
+      Neither Agree nor Disagree: 13 (13.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 20 (20.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 18 (18.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 19 (19.0%)
+      Somewhat Disagree: 15 (15.0%)
+    Round 3:
+      Strongly Agree: 30 (30.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Somewhat Disagree: 18 (18.0%)
+      Strongly Disagree: 17 (17.0%)
+      Somewhat Agree: 15 (15.0%)
+    Round 4:
+      Somewhat Agree: 23 (23.0%)
+      Strongly Agree: 21 (21.0%)
+      Somewhat Disagree: 19 (19.0%)
+      Neither Agree nor Disagree: 19 (19.0%)
+      Strongly Disagree: 18 (18.0%)
+    Round 5:
+      Neither Agree nor Disagree: 23 (23.0%)
+      Somewhat Agree: 23 (23.0%)
+      Strongly Disagree: 21 (21.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 14 (14.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Support: 14 (14.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 20 (20.0%)
+      Neutral: 20 (20.0%)
+      Support: 11 (11.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+      Support: 19 (19.0%)
+      Strongly Support: 15 (15.0%)
+      Oppose: 14 (14.0%)
+    Round 3:
+      Strongly Oppose: 23 (23.0%)
+      Support: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 16 (16.0%)
+    Round 4:
+      Support: 26 (26.0%)
+      Oppose: 23 (23.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 17 (17.0%)
+      Strongly Oppose: 16 (16.0%)
+    Round 5:
+      Support: 25 (25.0%)
+      Neutral: 24 (24.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Strongly Support: 13 (13.0%)
+
+================================================================================
+PERSONA 4 (Index 45)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 16, Gender: Female, Race: White
+  GPA: 3.30, Mental Health: Fair
+  Social Media: High
+  College Intention: 4-year college
+  Family Income: $31,736
+
+LLM INTERPRETATIONS OF BELIEF VECTOR:
+
+  How important is college to your future?:
+    Belief: This student believes that college is not very important for her future, as indicated by her response leaning towards 'Not Very Important.' This perspective may stem from a pragmatic view of education, possibly influenced by her family background and financial considerations, as her family income is relatively low.
+    Certainty: medium
+    Demographic Influence: Being a first-generation college student may lead her to perceive college as less essential, especially if she lacks role models or support systems that emphasize higher education.
+
+  Do you feel social media increases stress?:
+    Belief: The student somewhat disagrees with the notion that social media increases stress, suggesting she may not feel overwhelmed by her online interactions or may even find them beneficial. This ambivalence indicates a nuanced understanding of social media's role in her life.
+    Certainty: medium
+    Demographic Influence: Her high social media intensity might lead her to view these platforms as a source of connection rather than stress, reflecting a common sentiment among teenagers who rely on social media for social interaction.
+
+  Would you support later school start times?:
+    Belief: The student holds a neutral stance on the issue of later school start times, indicating she neither strongly supports nor opposes the idea. This neutrality suggests she may not have a strong personal investment in the matter or may feel indifferent about the potential benefits.
+    Certainty: medium
+    Demographic Influence: As a high school student with a fair mental health status, she may not prioritize changes in school schedules, focusing instead on immediate academic pressures and social dynamics.
+
+FINAL SURVEY RESPONSES (Round 5):
+  How important is college to your future?: Not Important At All
+  Do you feel social media increases stress?: Strongly Disagree
+  Would you support later school start times?: Neutral
+
+FINAL RESPONSE PROBABILITIES:
+  How important is college to your future?:
+    Not Very Important: 26.1%
+    Not Important At All: 26.1%
+    Somewhat Important: 24.0%
+    Very Important: 23.8%
+  Do you feel social media increases stress?:
+    Somewhat Disagree: 20.5%
+    Neither Agree nor Disagree: 20.4%
+    Strongly Disagree: 20.2%
+    Somewhat Agree: 19.6%
+    Strongly Agree: 19.3%
+  Would you support later school start times?:
+    Neutral: 20.7%
+    Oppose: 20.2%
+    Strongly Oppose: 19.8%
+    Support: 19.8%
+    Strongly Support: 19.4%
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+      Somewhat Important: 26 (26.0%)
+      Very Important: 22 (22.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+      Somewhat Important: 25 (25.0%)
+      Not Very Important: 22 (22.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 23 (23.0%)
+    Round 3:
+      Very Important: 27 (27.0%)
+      Not Important At All: 27 (27.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Very Important: 22 (22.0%)
+    Round 4:
+      Somewhat Important: 30 (30.0%)
+      Not Important At All: 29 (29.0%)
+      Not Very Important: 24 (24.0%)
+      Very Important: 17 (17.0%)
+    Round 5:
+      Very Important: 30 (30.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Important At All: 23 (23.0%)
+      Not Very Important: 23 (23.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+      Somewhat Agree: 18 (18.0%)
+      Somewhat Disagree: 17 (17.0%)
+      Neither Agree nor Disagree: 13 (13.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 20 (20.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 18 (18.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 19 (19.0%)
+      Somewhat Disagree: 15 (15.0%)
+    Round 3:
+      Strongly Agree: 30 (30.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Somewhat Disagree: 18 (18.0%)
+      Strongly Disagree: 17 (17.0%)
+      Somewhat Agree: 15 (15.0%)
+    Round 4:
+      Somewhat Agree: 23 (23.0%)
+      Strongly Agree: 21 (21.0%)
+      Somewhat Disagree: 19 (19.0%)
+      Neither Agree nor Disagree: 19 (19.0%)
+      Strongly Disagree: 18 (18.0%)
+    Round 5:
+      Neither Agree nor Disagree: 23 (23.0%)
+      Somewhat Agree: 23 (23.0%)
+      Strongly Disagree: 21 (21.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 14 (14.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Support: 14 (14.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 20 (20.0%)
+      Neutral: 20 (20.0%)
+      Support: 11 (11.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+      Support: 19 (19.0%)
+      Strongly Support: 15 (15.0%)
+      Oppose: 14 (14.0%)
+    Round 3:
+      Strongly Oppose: 23 (23.0%)
+      Support: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 16 (16.0%)
+    Round 4:
+      Support: 26 (26.0%)
+      Oppose: 23 (23.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 17 (17.0%)
+      Strongly Oppose: 16 (16.0%)
+    Round 5:
+      Support: 25 (25.0%)
+      Neutral: 24 (24.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Strongly Support: 13 (13.0%)
+
+================================================================================
+PERSONA 5 (Index 44)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 18, Gender: Female, Race: White
+  GPA: 2.19, Mental Health: Fair
+  Social Media: Moderate
+  College Intention: Other
+  Family Income: $38,294
+
+LLM INTERPRETATIONS OF BELIEF VECTOR:
+
+  How important is college to your future?:
+    Belief: This student perceives college as not important at all for her future, which may reflect a lack of confidence in higher education's relevance to her personal goals or aspirations. Her low GPA and the fact that she is not a first-generation college student might contribute to her belief that college is not a necessary path for success.
+    Certainty: medium
+    Demographic Influence: Being from a lower-income family and having a GPA of 2.19 may lead her to feel that college is less accessible or relevant, influencing her belief that it is not important.
+
+  Do you feel social media increases stress?:
+    Belief: The student strongly agrees that social media increases stress, indicating a significant concern about the negative impacts of social media on her mental well-being. This belief may stem from her fair mental health status and moderate social media intensity, suggesting that she feels overwhelmed by the pressures associated with online interactions.
+    Certainty: medium
+    Demographic Influence: As a high school student, she is likely to be heavily influenced by peer interactions on social media, which can amplify stress, particularly for someone with fair mental health.
+
+  Would you support later school start times?:
+    Belief: Her neutral stance on supporting later school start times suggests ambivalence or uncertainty about the issue, indicating that she does not have strong feelings either way. This may reflect a lack of engagement with the topic or a belief that changing start times would not significantly impact her personal experience.
+    Certainty: medium
+    Demographic Influence: As a student who does not participate in sports and has moderate social media use, she may not feel the urgency of needing more sleep or the benefits of later start times, leading to her neutral position.
+
+FINAL SURVEY RESPONSES (Round 5):
+  How important is college to your future?: Somewhat Important
+  Do you feel social media increases stress?: Strongly Agree
+  Would you support later school start times?: Strongly Oppose
+
+FINAL RESPONSE PROBABILITIES:
+  How important is college to your future?:
+    Not Important At All: 25.7%
+    Not Very Important: 25.1%
+    Very Important: 24.9%
+    Somewhat Important: 24.3%
+  Do you feel social media increases stress?:
+    Strongly Agree: 20.5%
+    Strongly Disagree: 20.4%
+    Neither Agree nor Disagree: 20.1%
+    Somewhat Disagree: 19.7%
+    Somewhat Agree: 19.3%
+  Would you support later school start times?:
+    Neutral: 21.8%
+    Support: 20.3%
+    Strongly Support: 19.8%
+    Oppose: 19.1%
+    Strongly Oppose: 19.0%
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+      Somewhat Important: 26 (26.0%)
+      Very Important: 22 (22.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+      Somewhat Important: 25 (25.0%)
+      Not Very Important: 22 (22.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 23 (23.0%)
+    Round 3:
+      Very Important: 27 (27.0%)
+      Not Important At All: 27 (27.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Very Important: 22 (22.0%)
+    Round 4:
+      Somewhat Important: 30 (30.0%)
+      Not Important At All: 29 (29.0%)
+      Not Very Important: 24 (24.0%)
+      Very Important: 17 (17.0%)
+    Round 5:
+      Very Important: 30 (30.0%)
+      Somewhat Important: 24 (24.0%)
+      Not Important At All: 23 (23.0%)
+      Not Very Important: 23 (23.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+      Somewhat Agree: 18 (18.0%)
+      Somewhat Disagree: 17 (17.0%)
+      Neither Agree nor Disagree: 13 (13.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 20 (20.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 18 (18.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Strongly Disagree: 19 (19.0%)
+      Somewhat Disagree: 15 (15.0%)
+    Round 3:
+      Strongly Agree: 30 (30.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+      Somewhat Disagree: 18 (18.0%)
+      Strongly Disagree: 17 (17.0%)
+      Somewhat Agree: 15 (15.0%)
+    Round 4:
+      Somewhat Agree: 23 (23.0%)
+      Strongly Agree: 21 (21.0%)
+      Somewhat Disagree: 19 (19.0%)
+      Neither Agree nor Disagree: 19 (19.0%)
+      Strongly Disagree: 18 (18.0%)
+    Round 5:
+      Neither Agree nor Disagree: 23 (23.0%)
+      Somewhat Agree: 23 (23.0%)
+      Strongly Disagree: 21 (21.0%)
+      Strongly Agree: 19 (19.0%)
+      Somewhat Disagree: 14 (14.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Support: 14 (14.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 20 (20.0%)
+      Neutral: 20 (20.0%)
+      Support: 11 (11.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+      Support: 19 (19.0%)
+      Strongly Support: 15 (15.0%)
+      Oppose: 14 (14.0%)
+    Round 3:
+      Strongly Oppose: 23 (23.0%)
+      Support: 22 (22.0%)
+      Oppose: 21 (21.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 16 (16.0%)
+    Round 4:
+      Support: 26 (26.0%)
+      Oppose: 23 (23.0%)
+      Strongly Support: 18 (18.0%)
+      Neutral: 17 (17.0%)
+      Strongly Oppose: 16 (16.0%)
+    Round 5:
+      Support: 25 (25.0%)
+      Neutral: 24 (24.0%)
+      Oppose: 21 (21.0%)
+      Strongly Oppose: 17 (17.0%)
+      Strongly Support: 13 (13.0%)

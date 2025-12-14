@@ -1,0 +1,1398 @@
+{
+  "generated_at": "2025-12-14T12:00:42.742310",
+  "total_personas": 100,
+  "sample_size": 5,
+  "random_seed": 42,
+  "personas": [
+    {
+      "persona_index": 83,
+      "demographics": {
+        "age": 16,
+        "gender": "Male",
+        "race": "Hispanic",
+        "sexual_orientation": "LGBTQ+",
+        "family_income": 183123.3407721759,
+        "gpa": 2.4406293741994065,
+        "mental_health": "Good",
+        "social_media_intensity": "Almost Constant",
+        "college_intention": "Other",
+        "sports_participation": true,
+        "first_gen_college": false
+      },
+      "belief_vector": [
+        1.059855580329895,
+        0.19137725234031677,
+        0.8021716475486755,
+        0.6809308528900146,
+        -0.5630089640617371,
+        -0.2323119044303894,
+        -0.35590067505836487,
+        0.5478988289833069,
+        -0.27532094717025757,
+        0.028693558648228645,
+        0.26712366938591003,
+        0.14110973477363586,
+        0.013818740844726562,
+        0.07999490201473236,
+        -0.18173904716968536,
+        0.12707772850990295
+      ],
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "This student views college as somewhat important for their future, reflecting a balanced perspective that acknowledges its value but does not prioritize it above all else. Their GPA of 2.44 may indicate some uncertainty about their academic readiness or motivation for college.",
+          "certainty": "medium",
+          "demographic_influence": "Coming from a family with a high income and being a first-generation college student may lead to mixed feelings about college, as they might feel pressure to succeed while also being aware of alternative paths."
+        },
+        "social_media_stress": {
+          "belief_description": "The student somewhat disagrees with the notion that social media increases stress, suggesting they may find social media to be a positive outlet or a source of connection rather than a burden. This perspective may indicate a level of comfort with their online presence.",
+          "certainty": "medium",
+          "demographic_influence": "As a male teenager who identifies as LGBTQ+, social media might serve as a vital space for community and support, potentially mitigating stress compared to peers who may not have similar experiences."
+        },
+        "school_start_times": {
+          "belief_description": "The student supports later school start times, indicating a belief that such changes could benefit students' well-being and academic performance. This belief may reflect an understanding of the importance of sleep and its effects on learning.",
+          "certainty": "medium",
+          "demographic_influence": "Being a high school student involved in sports may lead them to recognize the physical and mental demands of their schedule, influencing their support for policies that promote better health and academic outcomes."
+        }
+      },
+      "final_responses": {
+        "college_importance": "Somewhat Important",
+        "social_media_stress": "Somewhat Agree",
+        "school_start_times": "Support"
+      },
+      "final_response_probabilities": {
+        "college_importance": {
+          "Very Important": 0.24597398689315522,
+          "Somewhat Important": 0.25403239817171275,
+          "Not Very Important": 0.24968780991652384,
+          "Not Important At All": 0.2503058050186082
+        },
+        "social_media_stress": {
+          "Strongly Agree": 0.1994593900361107,
+          "Somewhat Agree": 0.19957531630442935,
+          "Neither Agree nor Disagree": 0.19479861408336774,
+          "Somewhat Disagree": 0.2031371512765492,
+          "Strongly Disagree": 0.20302952829954288
+        },
+        "school_start_times": {
+          "Strongly Support": 0.20296436426656242,
+          "Support": 0.21115188896615733,
+          "Neutral": 0.18363153854074704,
+          "Oppose": 0.20491961200144507,
+          "Strongly Oppose": 0.19733259622508817
+        }
+      },
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Not Important At All": 26,
+              "Not Very Important": 26,
+              "Somewhat Important": 26,
+              "Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 25,
+              "Not Important At All": 28,
+              "Somewhat Important": 25,
+              "Not Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 29,
+              "Somewhat Important": 23,
+              "Not Important At All": 23,
+              "Not Very Important": 25
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Not Very Important": 22,
+              "Very Important": 27,
+              "Not Important At All": 27,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Important": 30,
+              "Not Important At All": 29,
+              "Very Important": 17,
+              "Not Very Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Not Important At All": 23,
+              "Very Important": 30,
+              "Not Very Important": 23,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Neither Agree nor Disagree": 13,
+              "Strongly Agree": 28,
+              "Somewhat Disagree": 17,
+              "Somewhat Agree": 18,
+              "Strongly Disagree": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 19,
+              "Somewhat Disagree": 18,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Disagree": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Disagree": 19,
+              "Somewhat Disagree": 15,
+              "Somewhat Agree": 20,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 26
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 30,
+              "Somewhat Disagree": 18,
+              "Strongly Disagree": 17,
+              "Somewhat Agree": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Disagree": 19,
+              "Strongly Disagree": 18,
+              "Strongly Agree": 21,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 19
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Disagree": 21,
+              "Neither Agree nor Disagree": 23,
+              "Somewhat Disagree": 14,
+              "Strongly Agree": 19,
+              "Somewhat Agree": 23
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Oppose": 17,
+              "Strongly Support": 26,
+              "Neutral": 22,
+              "Oppose": 21,
+              "Support": 14
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Oppose": 21,
+              "Strongly Oppose": 28,
+              "Support": 11,
+              "Strongly Support": 20,
+              "Neutral": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Neutral": 22,
+              "Support": 19,
+              "Oppose": 14,
+              "Strongly Oppose": 30,
+              "Strongly Support": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 18,
+              "Strongly Oppose": 23,
+              "Support": 22,
+              "Oppose": 21,
+              "Neutral": 16
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 18,
+              "Support": 26,
+              "Strongly Oppose": 16,
+              "Oppose": 23,
+              "Neutral": 17
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 13,
+              "Oppose": 21,
+              "Support": 25,
+              "Neutral": 24,
+              "Strongly Oppose": 17
+            },
+            "total": 100
+          }
+        ]
+      }
+    },
+    {
+      "persona_index": 53,
+      "demographics": {
+        "age": 18,
+        "gender": "Male",
+        "race": "White",
+        "sexual_orientation": "LGBTQ+",
+        "family_income": 13076.770377089479,
+        "gpa": 3.006006437449117,
+        "mental_health": "Poor",
+        "social_media_intensity": "High",
+        "college_intention": "Other",
+        "sports_participation": true,
+        "first_gen_college": false
+      },
+      "belief_vector": [
+        -0.18146322667598724,
+        -0.23789431154727936,
+        -0.11508303880691528,
+        0.6234049797058105,
+        -0.39581048488616943,
+        0.38904228806495667,
+        -0.24843624234199524,
+        0.16520339250564575,
+        -0.4940764904022217,
+        0.09771790355443954,
+        0.4145249128341675,
+        -0.19711704552173615,
+        -0.1933039277791977,
+        -0.20797358453273773,
+        -0.3765513598918915,
+        -0.08233515173196793
+      ],
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "This student believes that college is not very important for their future, indicating a sense of ambivalence or skepticism towards higher education. Their low GPA and first-generation college status may contribute to a belief that college may not be a necessary path for success.",
+          "certainty": "medium",
+          "demographic_influence": "Coming from a low-income background may lead to doubts about the feasibility of attending college, influencing their belief that it is not essential for their future."
+        },
+        "social_media_stress": {
+          "belief_description": "The student somewhat agrees that social media increases stress, suggesting an awareness of the negative impacts of online interactions on their mental health. Given their poor mental health status, this belief may reflect their personal experiences with social media.",
+          "certainty": "medium",
+          "demographic_influence": "High social media intensity may exacerbate feelings of stress, especially for someone with poor mental health, leading to a more critical view of social media's role in their life."
+        },
+        "school_start_times": {
+          "belief_description": "This student supports later school start times, indicating a belief that such changes could positively impact student well-being and academic performance. This belief may stem from their own experiences with stress and fatigue, particularly as a student with poor mental health.",
+          "certainty": "medium",
+          "demographic_influence": "As a high school student involved in sports, they may recognize the importance of adequate rest and recovery, influencing their support for later start times to improve overall student health."
+        }
+      },
+      "final_responses": {
+        "college_importance": "Not Important At All",
+        "social_media_stress": "Strongly Disagree",
+        "school_start_times": "Strongly Oppose"
+      },
+      "final_response_probabilities": {
+        "college_importance": {
+          "Very Important": 0.25272589528214734,
+          "Somewhat Important": 0.24841415287389548,
+          "Not Very Important": 0.25338436598944175,
+          "Not Important At All": 0.24547558585451543
+        },
+        "social_media_stress": {
+          "Strongly Agree": 0.20281889649695228,
+          "Somewhat Agree": 0.20640939828164048,
+          "Neither Agree nor Disagree": 0.19620891039276356,
+          "Somewhat Disagree": 0.19879713082801356,
+          "Strongly Disagree": 0.1957656640006301
+        },
+        "school_start_times": {
+          "Strongly Support": 0.20108265079865476,
+          "Support": 0.2079262869555377,
+          "Neutral": 0.20789355863488138,
+          "Oppose": 0.19133341217546657,
+          "Strongly Oppose": 0.19176409143545958
+        }
+      },
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Not Important At All": 26,
+              "Not Very Important": 26,
+              "Somewhat Important": 26,
+              "Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 25,
+              "Not Important At All": 28,
+              "Somewhat Important": 25,
+              "Not Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 29,
+              "Somewhat Important": 23,
+              "Not Important At All": 23,
+              "Not Very Important": 25
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Not Very Important": 22,
+              "Very Important": 27,
+              "Not Important At All": 27,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Important": 30,
+              "Not Important At All": 29,
+              "Very Important": 17,
+              "Not Very Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Not Important At All": 23,
+              "Very Important": 30,
+              "Not Very Important": 23,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Neither Agree nor Disagree": 13,
+              "Strongly Agree": 28,
+              "Somewhat Disagree": 17,
+              "Somewhat Agree": 18,
+              "Strongly Disagree": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 19,
+              "Somewhat Disagree": 18,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Disagree": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Disagree": 19,
+              "Somewhat Disagree": 15,
+              "Somewhat Agree": 20,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 26
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 30,
+              "Somewhat Disagree": 18,
+              "Strongly Disagree": 17,
+              "Somewhat Agree": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Disagree": 19,
+              "Strongly Disagree": 18,
+              "Strongly Agree": 21,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 19
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Disagree": 21,
+              "Neither Agree nor Disagree": 23,
+              "Somewhat Disagree": 14,
+              "Strongly Agree": 19,
+              "Somewhat Agree": 23
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Oppose": 17,
+              "Strongly Support": 26,
+              "Neutral": 22,
+              "Oppose": 21,
+              "Support": 14
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Oppose": 21,
+              "Strongly Oppose": 28,
+              "Support": 11,
+              "Strongly Support": 20,
+              "Neutral": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Neutral": 22,
+              "Support": 19,
+              "Oppose": 14,
+              "Strongly Oppose": 30,
+              "Strongly Support": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 18,
+              "Strongly Oppose": 23,
+              "Support": 22,
+              "Oppose": 21,
+              "Neutral": 16
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 18,
+              "Support": 26,
+              "Strongly Oppose": 16,
+              "Oppose": 23,
+              "Neutral": 17
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 13,
+              "Oppose": 21,
+              "Support": 25,
+              "Neutral": 24,
+              "Strongly Oppose": 17
+            },
+            "total": 100
+          }
+        ]
+      }
+    },
+    {
+      "persona_index": 70,
+      "demographics": {
+        "age": 17,
+        "gender": "Male",
+        "race": "White",
+        "sexual_orientation": "Heterosexual",
+        "family_income": 59816.08285485472,
+        "gpa": 2.543260462502392,
+        "mental_health": "Fair",
+        "social_media_intensity": "Moderate",
+        "college_intention": "Other",
+        "sports_participation": true,
+        "first_gen_college": false
+      },
+      "belief_vector": [
+        0.45410898327827454,
+        0.040173523128032684,
+        0.2721185088157654,
+        0.1300213485956192,
+        -0.865078330039978,
+        0.13755261898040771,
+        -0.09758209437131882,
+        0.02746894396841526,
+        -0.5280637741088867,
+        -0.36090245842933655,
+        0.17679540812969208,
+        0.1018950492143631,
+        -0.4678247570991516,
+        0.36699432134628296,
+        0.043602511286735535,
+        0.16785167157649994
+      ],
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "This student believes that college is not important for their future, as indicated by their response of 'Not Important At All.' This perspective may stem from a lack of confidence in their academic abilities, reflected in their GPA of 2.54, which suggests they may not see higher education as a viable option for themselves.",
+          "certainty": "medium",
+          "demographic_influence": "Being a 17-year-old male from a moderate-income family, he might feel pressure to enter the workforce sooner rather than pursue further education, especially if he perceives college as unattainable."
+        },
+        "social_media_stress": {
+          "belief_description": "The student feels neutral about the impact of social media on stress, as shown by their response of 'Neither Agree nor Disagree.' This ambivalence suggests they may recognize both positive and negative aspects of social media, but do not feel strongly either way, indicating a balanced view.",
+          "certainty": "medium",
+          "demographic_influence": "As a teenager with moderate social media intensity, he may be aware of the potential stressors but also values the social connections that platforms provide, reflecting a common duality in adolescent experiences."
+        },
+        "school_start_times": {
+          "belief_description": "This student supports later school start times, indicating a belief that such changes could benefit students' well-being and academic performance. Their support suggests they may be aware of the challenges faced by students in managing early mornings and the potential impact on their mental health.",
+          "certainty": "medium",
+          "demographic_influence": "As a high school student involved in sports, he might recognize the physical and mental demands of balancing academics and athletics, leading him to advocate for changes that could enhance student performance and health."
+        }
+      },
+      "final_responses": {
+        "college_importance": "Not Very Important",
+        "social_media_stress": "Somewhat Disagree",
+        "school_start_times": "Neutral"
+      },
+      "final_response_probabilities": {
+        "college_importance": {
+          "Very Important": 0.2436397667999227,
+          "Somewhat Important": 0.2507404249941785,
+          "Not Very Important": 0.24909414790078058,
+          "Not Important At All": 0.25652566030511814
+        },
+        "social_media_stress": {
+          "Strongly Agree": 0.20248836833077466,
+          "Somewhat Agree": 0.1999253064977748,
+          "Neither Agree nor Disagree": 0.20859332716431903,
+          "Somewhat Disagree": 0.19407462987848145,
+          "Strongly Disagree": 0.19491836812865013
+        },
+        "school_start_times": {
+          "Strongly Support": 0.2089190820251585,
+          "Support": 0.21485576543188722,
+          "Neutral": 0.18679787679594906,
+          "Oppose": 0.19459484343993386,
+          "Strongly Oppose": 0.1948324323070714
+        }
+      },
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Not Important At All": 26,
+              "Not Very Important": 26,
+              "Somewhat Important": 26,
+              "Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 25,
+              "Not Important At All": 28,
+              "Somewhat Important": 25,
+              "Not Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 29,
+              "Somewhat Important": 23,
+              "Not Important At All": 23,
+              "Not Very Important": 25
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Not Very Important": 22,
+              "Very Important": 27,
+              "Not Important At All": 27,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Important": 30,
+              "Not Important At All": 29,
+              "Very Important": 17,
+              "Not Very Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Not Important At All": 23,
+              "Very Important": 30,
+              "Not Very Important": 23,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Neither Agree nor Disagree": 13,
+              "Strongly Agree": 28,
+              "Somewhat Disagree": 17,
+              "Somewhat Agree": 18,
+              "Strongly Disagree": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 19,
+              "Somewhat Disagree": 18,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Disagree": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Disagree": 19,
+              "Somewhat Disagree": 15,
+              "Somewhat Agree": 20,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 26
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 30,
+              "Somewhat Disagree": 18,
+              "Strongly Disagree": 17,
+              "Somewhat Agree": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Disagree": 19,
+              "Strongly Disagree": 18,
+              "Strongly Agree": 21,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 19
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Disagree": 21,
+              "Neither Agree nor Disagree": 23,
+              "Somewhat Disagree": 14,
+              "Strongly Agree": 19,
+              "Somewhat Agree": 23
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Oppose": 17,
+              "Strongly Support": 26,
+              "Neutral": 22,
+              "Oppose": 21,
+              "Support": 14
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Oppose": 21,
+              "Strongly Oppose": 28,
+              "Support": 11,
+              "Strongly Support": 20,
+              "Neutral": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Neutral": 22,
+              "Support": 19,
+              "Oppose": 14,
+              "Strongly Oppose": 30,
+              "Strongly Support": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 18,
+              "Strongly Oppose": 23,
+              "Support": 22,
+              "Oppose": 21,
+              "Neutral": 16
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 18,
+              "Support": 26,
+              "Strongly Oppose": 16,
+              "Oppose": 23,
+              "Neutral": 17
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 13,
+              "Oppose": 21,
+              "Support": 25,
+              "Neutral": 24,
+              "Strongly Oppose": 17
+            },
+            "total": 100
+          }
+        ]
+      }
+    },
+    {
+      "persona_index": 45,
+      "demographics": {
+        "age": 16,
+        "gender": "Female",
+        "race": "White",
+        "sexual_orientation": "Heterosexual",
+        "family_income": 31735.89309618596,
+        "gpa": 3.3027539617254087,
+        "mental_health": "Fair",
+        "social_media_intensity": "High",
+        "college_intention": "4-year college",
+        "sports_participation": false,
+        "first_gen_college": false
+      },
+      "belief_vector": [
+        0.47722098231315613,
+        -0.08366607874631882,
+        0.13237333297729492,
+        0.06614086031913757,
+        0.12330427020788193,
+        0.026721231639385223,
+        0.3334425389766693,
+        -0.004267872776836157,
+        -0.12953783571720123,
+        -0.2832244038581848,
+        -0.040011901408433914,
+        -0.40486812591552734,
+        0.1228271871805191,
+        -0.21658115088939667,
+        0.1448606550693512,
+        -0.22385410964488983
+      ],
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "This student believes that college is not very important for her future, as indicated by her response leaning towards 'Not Very Important.' This perspective may stem from a pragmatic view of education, possibly influenced by her family background and financial considerations, as her family income is relatively low.",
+          "certainty": "medium",
+          "demographic_influence": "Being a first-generation college student may lead her to perceive college as less essential, especially if she lacks role models or support systems that emphasize higher education."
+        },
+        "social_media_stress": {
+          "belief_description": "The student somewhat disagrees with the notion that social media increases stress, suggesting she may not feel overwhelmed by her online interactions or may even find them beneficial. This ambivalence indicates a nuanced understanding of social media's role in her life.",
+          "certainty": "medium",
+          "demographic_influence": "Her high social media intensity might lead her to view these platforms as a source of connection rather than stress, reflecting a common sentiment among teenagers who rely on social media for social interaction."
+        },
+        "school_start_times": {
+          "belief_description": "The student holds a neutral stance on the issue of later school start times, indicating she neither strongly supports nor opposes the idea. This neutrality suggests she may not have a strong personal investment in the matter or may feel indifferent about the potential benefits.",
+          "certainty": "medium",
+          "demographic_influence": "As a high school student with a fair mental health status, she may not prioritize changes in school schedules, focusing instead on immediate academic pressures and social dynamics."
+        }
+      },
+      "final_responses": {
+        "college_importance": "Not Important At All",
+        "social_media_stress": "Strongly Disagree",
+        "school_start_times": "Neutral"
+      },
+      "final_response_probabilities": {
+        "college_importance": {
+          "Very Important": 0.23786577449397744,
+          "Somewhat Important": 0.23995704210298965,
+          "Not Very Important": 0.26112327766082016,
+          "Not Important At All": 0.26105390574221277
+        },
+        "social_media_stress": {
+          "Strongly Agree": 0.19274981250739054,
+          "Somewhat Agree": 0.19556445571049824,
+          "Neither Agree nor Disagree": 0.20418146103890092,
+          "Somewhat Disagree": 0.20508351274872222,
+          "Strongly Disagree": 0.20242075799448805
+        },
+        "school_start_times": {
+          "Strongly Support": 0.19436545816990697,
+          "Support": 0.19802234751283157,
+          "Neutral": 0.20682786668040168,
+          "Oppose": 0.2024096587583945,
+          "Strongly Oppose": 0.19837466887846528
+        }
+      },
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Not Important At All": 26,
+              "Not Very Important": 26,
+              "Somewhat Important": 26,
+              "Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 25,
+              "Not Important At All": 28,
+              "Somewhat Important": 25,
+              "Not Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 29,
+              "Somewhat Important": 23,
+              "Not Important At All": 23,
+              "Not Very Important": 25
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Not Very Important": 22,
+              "Very Important": 27,
+              "Not Important At All": 27,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Important": 30,
+              "Not Important At All": 29,
+              "Very Important": 17,
+              "Not Very Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Not Important At All": 23,
+              "Very Important": 30,
+              "Not Very Important": 23,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Neither Agree nor Disagree": 13,
+              "Strongly Agree": 28,
+              "Somewhat Disagree": 17,
+              "Somewhat Agree": 18,
+              "Strongly Disagree": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 19,
+              "Somewhat Disagree": 18,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Disagree": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Disagree": 19,
+              "Somewhat Disagree": 15,
+              "Somewhat Agree": 20,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 26
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 30,
+              "Somewhat Disagree": 18,
+              "Strongly Disagree": 17,
+              "Somewhat Agree": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Disagree": 19,
+              "Strongly Disagree": 18,
+              "Strongly Agree": 21,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 19
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Disagree": 21,
+              "Neither Agree nor Disagree": 23,
+              "Somewhat Disagree": 14,
+              "Strongly Agree": 19,
+              "Somewhat Agree": 23
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Oppose": 17,
+              "Strongly Support": 26,
+              "Neutral": 22,
+              "Oppose": 21,
+              "Support": 14
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Oppose": 21,
+              "Strongly Oppose": 28,
+              "Support": 11,
+              "Strongly Support": 20,
+              "Neutral": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Neutral": 22,
+              "Support": 19,
+              "Oppose": 14,
+              "Strongly Oppose": 30,
+              "Strongly Support": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 18,
+              "Strongly Oppose": 23,
+              "Support": 22,
+              "Oppose": 21,
+              "Neutral": 16
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 18,
+              "Support": 26,
+              "Strongly Oppose": 16,
+              "Oppose": 23,
+              "Neutral": 17
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 13,
+              "Oppose": 21,
+              "Support": 25,
+              "Neutral": 24,
+              "Strongly Oppose": 17
+            },
+            "total": 100
+          }
+        ]
+      }
+    },
+    {
+      "persona_index": 44,
+      "demographics": {
+        "age": 18,
+        "gender": "Female",
+        "race": "White",
+        "sexual_orientation": "Heterosexual",
+        "family_income": 38294.49976407559,
+        "gpa": 2.1867903183786783,
+        "mental_health": "Fair",
+        "social_media_intensity": "Moderate",
+        "college_intention": "Other",
+        "sports_participation": false,
+        "first_gen_college": false
+      },
+      "belief_vector": [
+        -0.06089920550584793,
+        0.525758683681488,
+        -0.025226838886737823,
+        0.12475841492414474,
+        -0.11716517806053162,
+        -0.18797631561756134,
+        0.16410617530345917,
+        -0.39574581384658813,
+        -0.29219216108322144,
+        -0.2433900535106659,
+        -0.3758940100669861,
+        -0.19467155635356903,
+        -0.08837057650089264,
+        -0.2728915810585022,
+        0.17832328379154205,
+        -0.24618756771087646
+      ],
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "This student perceives college as not important at all for her future, which may reflect a lack of confidence in higher education's relevance to her personal goals or aspirations. Her low GPA and the fact that she is not a first-generation college student might contribute to her belief that college is not a necessary path for success.",
+          "certainty": "medium",
+          "demographic_influence": "Being from a lower-income family and having a GPA of 2.19 may lead her to feel that college is less accessible or relevant, influencing her belief that it is not important."
+        },
+        "social_media_stress": {
+          "belief_description": "The student strongly agrees that social media increases stress, indicating a significant concern about the negative impacts of social media on her mental well-being. This belief may stem from her fair mental health status and moderate social media intensity, suggesting that she feels overwhelmed by the pressures associated with online interactions.",
+          "certainty": "medium",
+          "demographic_influence": "As a high school student, she is likely to be heavily influenced by peer interactions on social media, which can amplify stress, particularly for someone with fair mental health."
+        },
+        "school_start_times": {
+          "belief_description": "Her neutral stance on supporting later school start times suggests ambivalence or uncertainty about the issue, indicating that she does not have strong feelings either way. This may reflect a lack of engagement with the topic or a belief that changing start times would not significantly impact her personal experience.",
+          "certainty": "medium",
+          "demographic_influence": "As a student who does not participate in sports and has moderate social media use, she may not feel the urgency of needing more sleep or the benefits of later start times, leading to her neutral position."
+        }
+      },
+      "final_responses": {
+        "college_importance": "Somewhat Important",
+        "social_media_stress": "Strongly Agree",
+        "school_start_times": "Strongly Oppose"
+      },
+      "final_response_probabilities": {
+        "college_importance": {
+          "Very Important": 0.24900968159553283,
+          "Somewhat Important": 0.2434596951327892,
+          "Not Very Important": 0.250975146703522,
+          "Not Important At All": 0.25655547656815597
+        },
+        "social_media_stress": {
+          "Strongly Agree": 0.20532271885339443,
+          "Somewhat Agree": 0.19261599478159014,
+          "Neither Agree nor Disagree": 0.20108641981930528,
+          "Somewhat Disagree": 0.19725203391511842,
+          "Strongly Disagree": 0.20372283263059174
+        },
+        "school_start_times": {
+          "Strongly Support": 0.19820442843895658,
+          "Support": 0.20321224187748785,
+          "Neutral": 0.2181882641861573,
+          "Oppose": 0.19073724967097339,
+          "Strongly Oppose": 0.18965781582642502
+        }
+      },
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Not Important At All": 26,
+              "Not Very Important": 26,
+              "Somewhat Important": 26,
+              "Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 25,
+              "Not Important At All": 28,
+              "Somewhat Important": 25,
+              "Not Very Important": 22
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 29,
+              "Somewhat Important": 23,
+              "Not Important At All": 23,
+              "Not Very Important": 25
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Not Very Important": 22,
+              "Very Important": 27,
+              "Not Important At All": 27,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Important": 30,
+              "Not Important At All": 29,
+              "Very Important": 17,
+              "Not Very Important": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Not Important At All": 23,
+              "Very Important": 30,
+              "Not Very Important": 23,
+              "Somewhat Important": 24
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Neither Agree nor Disagree": 13,
+              "Strongly Agree": 28,
+              "Somewhat Disagree": 17,
+              "Somewhat Agree": 18,
+              "Strongly Disagree": 24
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 19,
+              "Somewhat Disagree": 18,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Disagree": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Disagree": 19,
+              "Somewhat Disagree": 15,
+              "Somewhat Agree": 20,
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 26
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Neither Agree nor Disagree": 20,
+              "Strongly Agree": 30,
+              "Somewhat Disagree": 18,
+              "Strongly Disagree": 17,
+              "Somewhat Agree": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Somewhat Disagree": 19,
+              "Strongly Disagree": 18,
+              "Strongly Agree": 21,
+              "Somewhat Agree": 23,
+              "Neither Agree nor Disagree": 19
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Disagree": 21,
+              "Neither Agree nor Disagree": 23,
+              "Somewhat Disagree": 14,
+              "Strongly Agree": 19,
+              "Somewhat Agree": 23
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Oppose": 17,
+              "Strongly Support": 26,
+              "Neutral": 22,
+              "Oppose": 21,
+              "Support": 14
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Oppose": 21,
+              "Strongly Oppose": 28,
+              "Support": 11,
+              "Strongly Support": 20,
+              "Neutral": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Neutral": 22,
+              "Support": 19,
+              "Oppose": 14,
+              "Strongly Oppose": 30,
+              "Strongly Support": 15
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 18,
+              "Strongly Oppose": 23,
+              "Support": 22,
+              "Oppose": 21,
+              "Neutral": 16
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 18,
+              "Support": 26,
+              "Strongly Oppose": 16,
+              "Oppose": 23,
+              "Neutral": 17
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 13,
+              "Oppose": 21,
+              "Support": 25,
+              "Neutral": 24,
+              "Strongly Oppose": 17
+            },
+            "total": 100
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -2,6 +2,18 @@
 
 A comprehensive framework for generating 100 synthetic personas representing U.S. high school students (ages 16-18) using multiple methodologies, with LLM augmentation for narrative richness.
 
+## 🗺️ **New to this project? Start here:**
+
+👉 **[PROJECT_NAVIGATION.md](PROJECT_NAVIGATION.md)** - A comprehensive stream-of-consciousness guide to navigating this codebase. Perfect for understanding the project structure, workflow, and how everything connects.
+
+## Quick Links
+
+- **Getting Started**: See `PROJECT_NAVIGATION.md` for a complete walkthrough
+- **Methodology**: See `persona_methodology_guide.md` for generation methods
+- **Simulations**: See `SIMULATION_GUIDE.md` for running simulations
+- **Metrics**: See `metrics/METRICS_GUIDE.md` for comparing systems
+- **Experiments**: See `experiments/vector_beliefs/README.md` for the vector-based system
+
 ## Project Structure
 
 ```

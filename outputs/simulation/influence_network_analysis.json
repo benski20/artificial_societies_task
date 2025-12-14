@@ -1,0 +1,2039 @@
+{
+  "generated_at": "2025-12-14T12:15:03.244022",
+  "system_type": "original",
+  "total_personas": 100,
+  "sample_size": 8,
+  "random_seed": 42,
+  "network_statistics": {
+    "total_edges": 200,
+    "social_density": 0.04040404040404041,
+    "avg_influence_weight": 0.11592377610504627,
+    "active_influences": 400
+  },
+  "personas": [
+    {
+      "persona_index": 83,
+      "demographics": {
+        "age": 16,
+        "gender": "Male",
+        "race": "Hispanic",
+        "gpa": 2.4406293741994065,
+        "mental_health": "Good",
+        "social_media_intensity": "Almost Constant",
+        "college_intention": "Other"
+      },
+      "incoming_influences": [
+        {
+          "influencer_idx": 82,
+          "weight": 0.1147844910621643,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Two or more races",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influencer_idx": 81,
+          "weight": 0.11184661388397217,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influencer_idx": 0,
+          "weight": 0.10910497605800629,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Black",
+            "gpa": 2.8557989054118518
+          }
+        },
+        {
+          "influencer_idx": 48,
+          "weight": 0.10179723501205444,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Female",
+            "race": "White",
+            "gpa": 2.833697902801115
+          }
+        }
+      ],
+      "outgoing_influences": [
+        {
+          "influenced_idx": 82,
+          "weight": 0.1147844910621643,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Two or more races",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influenced_idx": 81,
+          "weight": 0.11184661388397217,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influenced_idx": 0,
+          "weight": 0.10910497605800629,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Black",
+            "gpa": 2.8557989054118518
+          }
+        },
+        {
+          "influenced_idx": 48,
+          "weight": 0.10179723501205444,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Female",
+            "race": "White",
+            "gpa": 2.833697902801115
+          }
+        }
+      ],
+      "total_incoming": 4,
+      "total_outgoing": 4,
+      "avg_incoming_weight": 0.1093833290040493,
+      "avg_outgoing_weight": 0.1093833290040493,
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          }
+        ]
+      },
+      "llm_interpretation": {
+        "influence_role": "bridge",
+        "influence_strength": "medium",
+        "key_traits": [
+          "socially active",
+          "relatable",
+          "peer-oriented"
+        ],
+        "influence_patterns": "This persona has a balanced influence network, where they both receive and provide influence to peers of similar age and varying academic performance. The connections suggest a reciprocal relationship where influence flows both ways.",
+        "demographic_clustering": "Yes, there is a notable clustering as the persona influences and is influenced by peers of similar age (16-18) and a mix of races, although the academic performance varies significantly.",
+        "social_position": "The persona occupies a central position in their social network, acting as a bridge between different groups. They are likely seen as approachable and relatable, which enhances their influence among peers."
+      }
+    },
+    {
+      "persona_index": 53,
+      "demographics": {
+        "age": 18,
+        "gender": "Male",
+        "race": "White",
+        "gpa": 3.006006437449117,
+        "mental_health": "Poor",
+        "social_media_intensity": "High",
+        "college_intention": "Other"
+      },
+      "incoming_influences": [
+        {
+          "influencer_idx": 51,
+          "weight": 0.1312915652990341,
+          "influencer_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 3.1006818073771907
+          }
+        },
+        {
+          "influencer_idx": 55,
+          "weight": 0.12493798434734343,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 3.2652632137256608
+          }
+        },
+        {
+          "influencer_idx": 54,
+          "weight": 0.11580232679843902,
+          "influencer_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 2.1862185612717218
+          }
+        },
+        {
+          "influencer_idx": 52,
+          "weight": 0.11525437831878661,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 2.458992482112369
+          }
+        }
+      ],
+      "outgoing_influences": [
+        {
+          "influenced_idx": 51,
+          "weight": 0.1312915652990341,
+          "influenced_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 3.1006818073771907
+          }
+        },
+        {
+          "influenced_idx": 55,
+          "weight": 0.12493798434734343,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 3.2652632137256608
+          }
+        },
+        {
+          "influenced_idx": 54,
+          "weight": 0.11580232679843902,
+          "influenced_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 2.1862185612717218
+          }
+        },
+        {
+          "influenced_idx": 52,
+          "weight": 0.11525437831878661,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 2.458992482112369
+          }
+        }
+      ],
+      "total_incoming": 4,
+      "total_outgoing": 4,
+      "avg_incoming_weight": 0.1218215636909008,
+      "avg_outgoing_weight": 0.1218215636909008,
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          }
+        ]
+      },
+      "llm_interpretation": {
+        "influence_role": "bridge",
+        "influence_strength": "medium",
+        "key_traits": [
+          "social media savvy",
+          "peer relatability",
+          "average academic performance"
+        ],
+        "influence_patterns": "This persona both influences and is influenced by peers of similar age and gender, indicating a reciprocal relationship. The weights of influence are relatively balanced, suggesting that this persona has a stable position in their social network.",
+        "demographic_clustering": "Yes, there is a notable demographic similarity as most influencers and those influenced are male and within a close age range, primarily White and Black.",
+        "social_position": "This persona occupies a bridging role in the social network, connecting peers from different academic performance levels and backgrounds, which may allow them to navigate various social circles effectively."
+      }
+    },
+    {
+      "persona_index": 70,
+      "demographics": {
+        "age": 17,
+        "gender": "Male",
+        "race": "White",
+        "gpa": 2.543260462502392,
+        "mental_health": "Fair",
+        "social_media_intensity": "Moderate",
+        "college_intention": "Other"
+      },
+      "incoming_influences": [
+        {
+          "influencer_idx": 71,
+          "weight": 0.1411155492067337,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.7569339394661543
+          }
+        },
+        {
+          "influencer_idx": 72,
+          "weight": 0.1170042872428894,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "Two or more races",
+            "gpa": 2.8974953534461214
+          }
+        },
+        {
+          "influencer_idx": 68,
+          "weight": 0.11505596637725829,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "White",
+            "gpa": 2.5000049738481867
+          }
+        },
+        {
+          "influencer_idx": 69,
+          "weight": 0.10917191505432129,
+          "influencer_demo": {
+            "age": 17,
+            "gender": "Female",
+            "race": "Asian",
+            "gpa": 3.3017599670184286
+          }
+        }
+      ],
+      "outgoing_influences": [
+        {
+          "influenced_idx": 71,
+          "weight": 0.1411155492067337,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.7569339394661543
+          }
+        },
+        {
+          "influenced_idx": 72,
+          "weight": 0.1170042872428894,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "Two or more races",
+            "gpa": 2.8974953534461214
+          }
+        },
+        {
+          "influenced_idx": 68,
+          "weight": 0.11505596637725829,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "White",
+            "gpa": 2.5000049738481867
+          }
+        },
+        {
+          "influenced_idx": 69,
+          "weight": 0.10917191505432129,
+          "influenced_demo": {
+            "age": 17,
+            "gender": "Female",
+            "race": "Asian",
+            "gpa": 3.3017599670184286
+          }
+        }
+      ],
+      "total_incoming": 4,
+      "total_outgoing": 4,
+      "avg_incoming_weight": 0.12058692947030067,
+      "avg_outgoing_weight": 0.12058692947030067,
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          }
+        ]
+      },
+      "llm_interpretation": {
+        "influence_role": "bridge",
+        "influence_strength": "medium",
+        "key_traits": [
+          "peer relatability",
+          "moderate social media presence",
+          "average academic performance"
+        ],
+        "influence_patterns": "This persona has a balanced influence network, with equal incoming and outgoing influences. They are influenced by peers who have slightly higher GPAs, indicating that they may be swayed by those who are academically more successful. Conversely, they influence peers with similar demographics, suggesting a reciprocal relationship.",
+        "demographic_clustering": "The persona connects with peers who are mostly of the same race (White) and gender (Male), but also includes a diverse demographic (Asian female), indicating some level of openness to different backgrounds.",
+        "social_position": "This persona occupies a bridging position in the social network, connecting peers from different academic backgrounds. They are not at the top of the influence hierarchy but play a crucial role in facilitating connections between different groups."
+      }
+    },
+    {
+      "persona_index": 45,
+      "demographics": {
+        "age": 16,
+        "gender": "Female",
+        "race": "White",
+        "gpa": 3.3027539617254087,
+        "mental_health": "Fair",
+        "social_media_intensity": "High",
+        "college_intention": "4-year college"
+      },
+      "incoming_influences": [
+        {
+          "influencer_idx": 30,
+          "weight": 0.10953743755817413,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Female",
+            "race": "Hispanic",
+            "gpa": 2.10653861021608
+          }
+        },
+        {
+          "influencer_idx": 46,
+          "weight": 0.10330438613891602,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.231077412317014
+          }
+        },
+        {
+          "influencer_idx": 43,
+          "weight": 0.10037198960781098,
+          "influencer_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "Asian",
+            "gpa": 3.099382084885893
+          }
+        }
+      ],
+      "outgoing_influences": [
+        {
+          "influenced_idx": 30,
+          "weight": 0.10953743755817413,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Female",
+            "race": "Hispanic",
+            "gpa": 2.10653861021608
+          }
+        },
+        {
+          "influenced_idx": 46,
+          "weight": 0.10330438613891602,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.231077412317014
+          }
+        },
+        {
+          "influenced_idx": 43,
+          "weight": 0.10037198960781098,
+          "influenced_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "Asian",
+            "gpa": 3.099382084885893
+          }
+        }
+      ],
+      "total_incoming": 3,
+      "total_outgoing": 3,
+      "avg_incoming_weight": 0.10440460443496703,
+      "avg_outgoing_weight": 0.10440460443496703,
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          }
+        ]
+      },
+      "llm_interpretation": {
+        "influence_role": "bridge",
+        "influence_strength": "medium",
+        "key_traits": [
+          "socially active",
+          "approachable",
+          "empathetic"
+        ],
+        "influence_patterns": "This persona is equally influenced by and influences peers of similar age and social standing, suggesting a reciprocal relationship. The presence of mutual influence with peers indicates a balanced social dynamic.",
+        "demographic_clustering": "Yes, there is demographic similarity among the connections, as both the influencers and the influenced are predominantly high school students around the same age and share similar racial backgrounds.",
+        "social_position": "This persona occupies a bridging position in the social network, connecting different groups of peers. Their influence is moderate, indicating they are respected and valued by their peers, but not necessarily a dominant leader."
+      }
+    },
+    {
+      "persona_index": 44,
+      "demographics": {
+        "age": 18,
+        "gender": "Female",
+        "race": "White",
+        "gpa": 2.1867903183786783,
+        "mental_health": "Fair",
+        "social_media_intensity": "Moderate",
+        "college_intention": "Other"
+      },
+      "incoming_influences": [
+        {
+          "influencer_idx": 26,
+          "weight": 0.113610702753067,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 2.422039704182905
+          }
+        },
+        {
+          "influencer_idx": 43,
+          "weight": 0.1055437445640564,
+          "influencer_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "Asian",
+            "gpa": 3.099382084885893
+          }
+        },
+        {
+          "influencer_idx": 46,
+          "weight": 0.10506965517997742,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.231077412317014
+          }
+        }
+      ],
+      "outgoing_influences": [
+        {
+          "influenced_idx": 26,
+          "weight": 0.113610702753067,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 2.422039704182905
+          }
+        },
+        {
+          "influenced_idx": 43,
+          "weight": 0.1055437445640564,
+          "influenced_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "Asian",
+            "gpa": 3.099382084885893
+          }
+        },
+        {
+          "influenced_idx": 46,
+          "weight": 0.10506965517997742,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.231077412317014
+          }
+        }
+      ],
+      "total_incoming": 3,
+      "total_outgoing": 3,
+      "avg_incoming_weight": 0.10807470083236694,
+      "avg_outgoing_weight": 0.10807470083236694,
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          }
+        ]
+      },
+      "llm_interpretation": {
+        "influence_role": "bridge",
+        "influence_strength": "medium",
+        "key_traits": [
+          "moderate social media presence",
+          "peer connections",
+          "shared experiences"
+        ],
+        "influence_patterns": "The persona has equal incoming and outgoing influence weights, indicating a balanced exchange of influence with peers. They influence the same individuals who influence them, suggesting a reciprocal relationship.",
+        "demographic_clustering": "There is a demographic similarity in their connections, as all influencers and those influenced are male and within a similar age range (17-18 years old), though they represent different races.",
+        "social_position": "The persona occupies a bridging position in the network, connecting peers with varying academic performances and backgrounds. This suggests they may facilitate communication and influence among diverse groups."
+      }
+    },
+    {
+      "persona_index": 39,
+      "demographics": {
+        "age": 16,
+        "gender": "Female",
+        "race": "Two or more races",
+        "gpa": 3.5952919281056626,
+        "mental_health": "Good",
+        "social_media_intensity": "High",
+        "college_intention": "Other"
+      },
+      "incoming_influences": [
+        {
+          "influencer_idx": 38,
+          "weight": 0.1252007782459259,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Hispanic",
+            "gpa": 2.967076574652834
+          }
+        },
+        {
+          "influencer_idx": 40,
+          "weight": 0.11362721621990203,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influencer_idx": 41,
+          "weight": 0.11305916905403136,
+          "influencer_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.3719703010355295
+          }
+        }
+      ],
+      "outgoing_influences": [
+        {
+          "influenced_idx": 38,
+          "weight": 0.1252007782459259,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Hispanic",
+            "gpa": 2.967076574652834
+          }
+        },
+        {
+          "influenced_idx": 40,
+          "weight": 0.11362721621990203,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influenced_idx": 41,
+          "weight": 0.11305916905403136,
+          "influenced_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.3719703010355295
+          }
+        }
+      ],
+      "total_incoming": 3,
+      "total_outgoing": 3,
+      "avg_incoming_weight": 0.11729572117328642,
+      "avg_outgoing_weight": 0.11729572117328642,
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          }
+        ]
+      },
+      "llm_interpretation": {
+        "influence_role": "bridge",
+        "influence_strength": "medium",
+        "key_traits": [
+          "good academic performance",
+          "high social media engagement",
+          "positive mental health"
+        ],
+        "influence_patterns": "This persona has a balanced influence network, where they both receive and provide influence to peers of similar age and gender, indicating a reciprocal relationship. The weights of influence are also similar, suggesting a level of equality in the influence dynamics.",
+        "demographic_clustering": "Yes, there is a demographic similarity in their connections, as both the influencers and the influenced are predominantly of the same age group (16-17 years) and share a mix of genders and races, indicating a diverse yet relatable network.",
+        "social_position": "This persona occupies a central position in the influence network, acting as a bridge between different peers. Their ability to connect with both high-achieving and lower-achieving students suggests they play a significant role in facilitating communication and influence across varying academic performances."
+      }
+    },
+    {
+      "persona_index": 22,
+      "demographics": {
+        "age": 18,
+        "gender": "Male",
+        "race": "White",
+        "gpa": 3.2309202829886776,
+        "mental_health": "Poor",
+        "social_media_intensity": "Moderate",
+        "college_intention": "4-year college"
+      },
+      "incoming_influences": [
+        {
+          "influencer_idx": 24,
+          "weight": 0.13026843667030333,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.971394671430867
+          }
+        },
+        {
+          "influencer_idx": 20,
+          "weight": 0.12375138401985168,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "Asian",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influencer_idx": 12,
+          "weight": 0.11234858036041259,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Two or more races",
+            "gpa": 2.3358508222549945
+          }
+        },
+        {
+          "influencer_idx": 21,
+          "weight": 0.10971514284610748,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 3.424799088270044
+          }
+        }
+      ],
+      "outgoing_influences": [
+        {
+          "influenced_idx": 24,
+          "weight": 0.13026843667030333,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.971394671430867
+          }
+        },
+        {
+          "influenced_idx": 20,
+          "weight": 0.12375138401985168,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "Asian",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influenced_idx": 12,
+          "weight": 0.11234858036041259,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Two or more races",
+            "gpa": 2.3358508222549945
+          }
+        },
+        {
+          "influenced_idx": 21,
+          "weight": 0.10971514284610748,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Male",
+            "race": "Black",
+            "gpa": 3.424799088270044
+          }
+        }
+      ],
+      "total_incoming": 4,
+      "total_outgoing": 4,
+      "avg_incoming_weight": 0.11902088597416877,
+      "avg_outgoing_weight": 0.11902088597416877,
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          }
+        ]
+      },
+      "llm_interpretation": {
+        "influence_role": "bridge",
+        "influence_strength": "medium",
+        "key_traits": [
+          "peer relatability",
+          "moderate social media presence",
+          "average academic performance"
+        ],
+        "influence_patterns": "The persona influences and is influenced by peers of similar age and gender, indicating a reciprocal relationship where they share common experiences and challenges. The weights of influence suggest a balanced exchange, where both parties value each other's opinions.",
+        "demographic_clustering": "Yes, there is a clustering effect as the majority of connections are within the same age group (16-18) and predominantly male, with some racial diversity.",
+        "social_position": "The persona acts as a bridge in the social network, connecting peers from different backgrounds and academic standings, which may enhance their role in facilitating communication and support among their friends."
+      }
+    },
+    {
+      "persona_index": 80,
+      "demographics": {
+        "age": 17,
+        "gender": "Female",
+        "race": "White",
+        "gpa": 3.8330343309272727,
+        "mental_health": "Poor",
+        "social_media_intensity": "Low",
+        "college_intention": "4-year college"
+      },
+      "incoming_influences": [
+        {
+          "influencer_idx": 78,
+          "weight": 0.11596440374851226,
+          "influencer_demo": {
+            "age": 18,
+            "gender": "Female",
+            "race": "White",
+            "gpa": 3.9366047246792406
+          }
+        },
+        {
+          "influencer_idx": 79,
+          "weight": 0.11534666419029235,
+          "influencer_demo": {
+            "age": 17,
+            "gender": "Female",
+            "race": "Hispanic",
+            "gpa": 2.3169412426250293
+          }
+        },
+        {
+          "influencer_idx": 82,
+          "weight": 0.10590983033180236,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Two or more races",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influencer_idx": 20,
+          "weight": 0.10503778159618378,
+          "influencer_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "Asian",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influencer_idx": 41,
+          "weight": 0.10373929738998412,
+          "influencer_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.3719703010355295
+          }
+        }
+      ],
+      "outgoing_influences": [
+        {
+          "influenced_idx": 78,
+          "weight": 0.11596440374851226,
+          "influenced_demo": {
+            "age": 18,
+            "gender": "Female",
+            "race": "White",
+            "gpa": 3.9366047246792406
+          }
+        },
+        {
+          "influenced_idx": 79,
+          "weight": 0.11534666419029235,
+          "influenced_demo": {
+            "age": 17,
+            "gender": "Female",
+            "race": "Hispanic",
+            "gpa": 2.3169412426250293
+          }
+        },
+        {
+          "influenced_idx": 82,
+          "weight": 0.10590983033180236,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Female",
+            "race": "Two or more races",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influenced_idx": 20,
+          "weight": 0.10503778159618378,
+          "influenced_demo": {
+            "age": 16,
+            "gender": "Male",
+            "race": "Asian",
+            "gpa": 4.0
+          }
+        },
+        {
+          "influenced_idx": 41,
+          "weight": 0.10373929738998412,
+          "influenced_demo": {
+            "age": 17,
+            "gender": "Male",
+            "race": "White",
+            "gpa": 2.3719703010355295
+          }
+        }
+      ],
+      "total_incoming": 5,
+      "total_outgoing": 5,
+      "avg_incoming_weight": 0.10919959545135498,
+      "avg_outgoing_weight": 0.10919959545135498,
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            }
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            }
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            }
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            }
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            }
+          }
+        ]
+      },
+      "llm_interpretation": {
+        "influence_role": "bridge",
+        "influence_strength": "medium",
+        "key_traits": [
+          "high GPA",
+          "peer connections",
+          "academic focus"
+        ],
+        "influence_patterns": "This persona influences and is influenced by peers with similar academic interests, suggesting a focus on educational achievement. The presence of both higher and lower GPA peers in their network indicates a potential role in guiding others academically while also receiving support.",
+        "demographic_clustering": "The persona connects with peers of similar age and gender, but there is some diversity in race and GPA, indicating a mix of influences and a broad perspective.",
+        "social_position": "This persona occupies a central position in the network, acting as a bridge between different groups. They have the potential to facilitate connections and exchanges of ideas among peers with varying academic performances."
+      }
+    }
+  ]
+}

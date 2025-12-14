@@ -1,0 +1,216 @@
+================================================================================
+COMPREHENSIVE METRICS COMPARISON REPORT
+Original Text-Based System vs Vector-Based System
+================================================================================
+
+Generated: 2025-12-14T12:23:35.200732
+Total Personas: 100 (both systems)
+
+================================================================================
+1. BELIEF SPACE DIVERSITY (Embedding Spread)
+================================================================================
+
+Mean Pairwise Distance:
+  Original: 0.9569
+  Vector: 1.3400
+  Difference: +0.3831
+  → Vector system has more diversity
+
+Distance Range:
+  Original: 0.8227
+  Vector: 1.2787
+
+================================================================================
+2. AGGREGATE RESPONSE DISTRIBUTIONS
+================================================================================
+
+{'question': 'How important is college to your future?', 'options': ['Very Important', 'Somewhat Important', 'Not Very Important', 'Not Important At All']}:
+  Original System (Final Round):
+    Very Important: 54 (54.0%)
+    Somewhat Important: 23 (23.0%)
+    Not Important At All: 12 (12.0%)
+    Not Very Important: 11 (11.0%)
+  Vector System (Final Round):
+    Very Important: 30 (30.0%)
+    Somewhat Important: 24 (24.0%)
+    Not Important At All: 23 (23.0%)
+    Not Very Important: 23 (23.0%)
+ 
+
+{'question': 'Do you feel social media increases stress?', 'options': ['Strongly Agree', 'Somewhat Agree', 'Neither Agree nor Disagree', 'Somewhat Disagree', 'Strongly Disagree']}:
+  Original System (Final Round):
+    Strongly Agree: 63 (63.0%)
+    Strongly Disagree: 37 (37.0%)
+  Vector System (Final Round):
+    Neither Agree nor Disagree: 23 (23.0%)
+    Somewhat Agree: 23 (23.0%)
+    Strongly Disagree: 21 (21.0%)
+    Strongly Agree: 19 (19.0%)
+    Somewhat Disagree: 14 (14.0%)
+  
+
+{'question': 'Would you support later school start times?', 'options': ['Strongly Support', 'Support', 'Neutral', 'Oppose', 'Strongly Oppose']}:
+  Original System (Final Round):
+    Strongly Support: 62 (62.0%)
+    Strongly Oppose: 38 (38.0%)
+  Vector System (Final Round):
+    Support: 25 (25.0%)
+    Neutral: 24 (24.0%)
+    Oppose: 21 (21.0%)
+    Strongly Oppose: 17 (17.0%)
+    Strongly Support: 13 (13.0%)
+  
+
+================================================================================
+3. RESPONSE ENTROPY (Uncertainty)
+================================================================================
+
+Higher entropy = more uncertainty/diversity in responses
+Lower entropy = more certainty/concentration
+
+{'question': 'How important is college to your future?', 'options': ['Very Important', 'Somewhat Important', 'Not Very Important', 'Not Important At All']}:
+  Initial Entropy:
+    Original: 1.8869 bits
+    Vector: 1.9964 bits
+  Final Entropy:
+    Original: 1.6851 bits
+    Vector: 1.9906 bits
+  Change:
+    Original: -0.2019 bits
+    Vector: -0.0059 bits
+  Max Possible Entropy: 2.0000 bits
+  Relative Entropy (Final):
+    Original: 84.3% of max
+    Vector: 99.5% of max
+
+{'question': 'Do you feel social media increases stress?', 'options': ['Strongly Agree', 'Somewhat Agree', 'Neither Agree nor Disagree', 'Somewhat Disagree', 'Strongly Disagree']}:
+  Initial Entropy:
+    Original: 0.9896 bits
+    Vector: 2.2709 bits
+  Final Entropy:
+    Original: 0.9507 bits
+    Vector: 2.3005 bits
+  Change:
+    Original: -0.0389 bits
+    Vector: +0.0296 bits
+  Max Possible Entropy: 1.0000 bits
+  Relative Entropy (Final):
+    Original: 95.1% of max
+    Vector: 99.1% of max
+
+{'question': 'Would you support later school start times?', 'options': ['Strongly Support', 'Support', 'Neutral', 'Oppose', 'Strongly Oppose']}:
+  Initial Entropy:
+    Original: 0.9815 bits
+    Vector: 2.2904 bits
+  Final Entropy:
+    Original: 0.9580 bits
+    Vector: 2.2842 bits
+  Change:
+    Original: -0.0234 bits
+    Vector: -0.0062 bits
+  Max Possible Entropy: 1.0000 bits
+  Relative Entropy (Final):
+    Original: 95.8% of max
+    Vector: 98.4% of max
+
+================================================================================
+4. OPINION CLUSTERING (Network Homophily)
+================================================================================
+
+Homophily Effect = Connected Similarity - Unconnected Similarity
+Positive = beliefs cluster along social connections (homophily)
+Negative = beliefs don't cluster (heterophily)
+
+Connected Similarity (socially connected pairs):
+  Original: 0.5457
+  Vector: 0.1467
+
+Unconnected Similarity (not socially connected):
+  Original: 0.5394
+  Vector: 0.0863
+
+Homophily Effect:
+  Original: +0.0062
+  Vector: +0.0604
+  → Original system shows homophily (beliefs cluster)
+  → Vector system shows homophily (beliefs cluster)
+
+Clustering Quality (Silhouette Score):
+  3 clusters:
+    Original: 0.1087
+    Vector: 0.0876
+  5 clusters:
+    Original: 0.1463
+    Vector: 0.0552
+  10 clusters:
+    Original: 0.1573
+    Vector: 0.0642
+
+================================================================================
+5. CONVERGENCE METRICS
+================================================================================
+
+{'question': 'How important is college to your future?', 'options': ['Very Important', 'Somewhat Important', 'Not Very Important', 'Not Important At All']}:
+  Convergence Round (95% stability):
+    Original: Round 2
+    Vector: Round 3
+  Mean Stability:
+    Original: 97.2%
+    Vector: 92.0%
+  Final Polarization (variance):
+    Original: 0.0303
+    Vector: 0.0008
+  Total Change:
+    Original: 0.0%
+    Vector: 13.0%
+
+{'question': 'Do you feel social media increases stress?', 'options': ['Strongly Agree', 'Somewhat Agree', 'Neither Agree nor Disagree', 'Somewhat Disagree', 'Strongly Disagree']}:
+  Convergence Round (95% stability):
+    Original: Round 1
+    Vector: Round N/A (no convergence)
+  Mean Stability:
+    Original: 98.6%
+    Vector: 91.2%
+  Final Polarization (variance):
+    Original: 0.0169
+    Vector: 0.0011
+  Total Change:
+    Original: 0.0%
+    Vector: 7.0%
+
+{'question': 'Would you support later school start times?', 'options': ['Strongly Support', 'Support', 'Neutral', 'Oppose', 'Strongly Oppose']}:
+  Convergence Round (95% stability):
+    Original: Round 1
+    Vector: Round N/A (no convergence)
+  Mean Stability:
+    Original: 99.2%
+    Vector: 89.8%
+  Final Polarization (variance):
+    Original: 0.0144
+    Vector: 0.0020
+  Total Change:
+    Original: 0.0%
+    Vector: 8.0%
+
+
+
+================================================================================
+6. KEY INSIGHTS & INTERPRETATIONS
+================================================================================
+
+Belief Diversity:
+  → Vector system maintains more diverse beliefs
+  → Beliefs are more spread out in vector space
+
+Response Uncertainty:
+  → Vector system shows higher uncertainty (more realistic)
+  → Responses are more probabilistic and diverse
+
+Opinion Clustering:
+  → Vector system shows stronger homophily
+  → Beliefs cluster more along social connections
+
+Convergence:
+  Original: 3/3 questions converged
+  Vector: 1/3 questions converged
+  → Vector system shows slower convergence (more dynamic)

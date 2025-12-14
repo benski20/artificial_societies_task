@@ -1,0 +1,1054 @@
+{
+  "generated_at": "2025-12-14T12:07:52.237354",
+  "total_personas": 100,
+  "sample_size": 5,
+  "random_seed": 42,
+  "system_type": "original_text_based",
+  "personas": [
+    {
+      "persona_index": 83,
+      "demographics": {
+        "age": 16,
+        "gender": "Male",
+        "race": "Hispanic",
+        "sexual_orientation": "LGBTQ+",
+        "family_income": 183123.3407721759,
+        "gpa": 2.4406293741994065,
+        "mental_health": "Good",
+        "social_media_intensity": "Almost Constant",
+        "college_intention": "Other",
+        "sports_participation": true,
+        "first_gen_college": false
+      },
+      "text_beliefs": {
+        "college importance and future plans": "The persona strongly believes that college importance and future plans is very important.",
+        "social media impact on daily life": "The persona strongly believes that social media impact on daily life is very supportive.",
+        "school start times and sleep": "The persona strongly believes that school start times and sleep is very supportive.",
+        "mental health and stress": "The persona strongly believes that mental health and stress is very supportive.",
+        "academic pressure and expectations": "The persona strongly believes that academic pressure and expectations is very supportive."
+      },
+      "narrative": "Carlos Mendoza, a 16-year-old high school junior, has always navigated life with a blend of optimism and pragmatism. Born into a close-knit family in a suburban neighborhood of Houston, Texas, Carlos is the middle child of three siblings. His parents, both Mexican immigrants, worked hard to provide a comfortable life for their children, with his father running a successful landscaping business and his mother managing a local bakery. They instilled in Carlos and his siblings the value of hard wor",
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "Carlos strongly believes that college is crucial for his future, indicating a clear understanding of its role in achieving personal and professional goals. This belief likely stems from his family's emphasis on hard work and education, reflecting a desire to build on their sacrifices and succeed academically.",
+          "certainty": "high",
+          "demographic_influence": "As a first-generation college student, Carlos may feel a heightened sense of responsibility to pursue higher education, influenced by his parents' immigrant background and their aspirations for him.",
+          "alignment_with_response": "The stated belief aligns with the survey response, as he views college as very important."
+        },
+        "social_media_stress": {
+          "belief_description": "Carlos believes that social media has a supportive impact on his daily life, suggesting he finds it beneficial for maintaining connections and expressing himself. This perspective may indicate that he utilizes social media as a positive outlet rather than a source of stress.",
+          "certainty": "high",
+          "demographic_influence": "Being part of the LGBTQ+ community and a frequent social media user, Carlos may rely on these platforms for support and affirmation, shaping his positive view of their role in his life.",
+          "alignment_with_response": "The stated belief aligns with the survey response, as he perceives social media as supportive rather than a source of stress."
+        },
+        "school_start_times": {
+          "belief_description": "Carlos strongly supports the idea of later school start times, reflecting his awareness of the importance of sleep for mental health and academic performance. His belief suggests a recognition of the challenges faced by students in balancing academic demands with personal well-being.",
+          "certainty": "high",
+          "demographic_influence": "His good mental health and active participation in sports may lead him to advocate for changes that promote better sleep and overall health, aligning with broader trends among adolescents.",
+          "alignment_with_response": "The stated belief aligns with the survey response, as he supports the idea of later school start times."
+        }
+      },
+      "final_responses": {},
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          }
+        ]
+      }
+    },
+    {
+      "persona_index": 53,
+      "demographics": {
+        "age": 18,
+        "gender": "Male",
+        "race": "White",
+        "sexual_orientation": "LGBTQ+",
+        "family_income": 13076.770377089479,
+        "gpa": 3.006006437449117,
+        "mental_health": "Poor",
+        "social_media_intensity": "High",
+        "college_intention": "Other",
+        "sports_participation": true,
+        "first_gen_college": false
+      },
+      "text_beliefs": {
+        "college importance and future plans": "The persona strongly believes that college importance and future plans is very important.",
+        "social media impact on daily life": "The persona somewhat believes that social media impact on daily life is somewhat supportive.",
+        "school start times and sleep": "The persona strongly believes that school start times and sleep is very supportive.",
+        "mental health and stress": "The persona believes that mental health and stress is supportive.",
+        "academic pressure and expectations": "The persona believes that academic pressure and expectations is supportive."
+      },
+      "narrative": "Ethan Mitchell, an 18-year-old high school senior from a small suburban town in Ohio, has always felt a bit out of place. Growing up in a modest household with his single mother, who works multiple jobs to make ends meet, he often found solace in sports, particularly soccer, which became a crucial outlet for him. The family income of just over $13,000 a year has placed significant strain on their lives, and Ethan has watched his mother sacrifice her own aspirations to support him. While she neve",
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "Ethan strongly believes that college is very important for his future, reflecting a desire for upward mobility and a better life than what he has experienced so far. This belief may stem from his awareness of his family's financial struggles and his mother's sacrifices, motivating him to pursue higher education as a means to improve his circumstances.",
+          "certainty": "high",
+          "demographic_influence": "As a first-generation college student from a low-income background, Ethan's belief in the importance of college is likely influenced by his aspiration to break the cycle of poverty and achieve a better future.",
+          "alignment_with_response": "The stated belief aligns with the survey response indicating a strong belief in college's importance."
+        },
+        "social_media_stress": {
+          "belief_description": "Ethan somewhat believes that social media has a supportive impact on his daily life, suggesting that he finds some value in it, possibly for social connection or self-expression. However, this belief may also indicate an awareness of the potential stressors associated with social media, particularly given his mental health challenges.",
+          "certainty": "medium",
+          "demographic_influence": "His high social media intensity may lead him to recognize both the positive and negative aspects of social media, especially as a member of the LGBTQ+ community seeking connection and support.",
+          "alignment_with_response": "The stated belief does not directly align with the survey response, as there are no recorded responses to the social media stress question."
+        },
+        "school_start_times": {
+          "belief_description": "Ethan strongly believes that later school start times are very supportive, indicating a recognition of the importance of sleep for mental health and academic performance. This belief aligns with his own struggles with mental health, suggesting he advocates for changes that could benefit students like himself.",
+          "certainty": "high",
+          "demographic_influence": "His poor mental health and experience with academic pressure may shape his strong belief in the need for later start times, as he likely understands the detrimental effects of sleep deprivation.",
+          "alignment_with_response": "The stated belief aligns with the survey response indicating strong support for later school start times."
+        }
+      },
+      "final_responses": {},
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          }
+        ]
+      }
+    },
+    {
+      "persona_index": 70,
+      "demographics": {
+        "age": 17,
+        "gender": "Male",
+        "race": "White",
+        "sexual_orientation": "Heterosexual",
+        "family_income": 59816.08285485472,
+        "gpa": 2.543260462502392,
+        "mental_health": "Fair",
+        "social_media_intensity": "Moderate",
+        "college_intention": "Other",
+        "sports_participation": true,
+        "first_gen_college": false
+      },
+      "text_beliefs": {
+        "college importance and future plans": "The persona strongly believes that college importance and future plans is very important.",
+        "social media impact on daily life": "The persona believes that social media impact on daily life is supportive.",
+        "school start times and sleep": "The persona believes that school start times and sleep is supportive.",
+        "mental health and stress": "The persona strongly believes that mental health and stress is very supportive.",
+        "academic pressure and expectations": "The persona strongly believes that academic pressure and expectations is very supportive."
+      },
+      "narrative": "Jake Thompson, a 17-year-old high school senior from a suburban neighborhood in Ohio, has always navigated the world with a blend of enthusiasm and uncertainty. Growing up in a middle-class family, Jake is the second of three siblings, with an older sister attending community college and a younger brother still in middle school. His parents, both high school graduates who work as a mechanic and a dental hygienist, instilled the value of hard work in their children. While they have always encoura",
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "Jake strongly believes that college is very important for his future, indicating a clear recognition of the role higher education plays in achieving his career goals and personal aspirations. This belief may stem from his family's emphasis on hard work and the value of education, as well as the societal expectations surrounding college attendance.",
+          "certainty": "high",
+          "demographic_influence": "As a high school senior from a middle-class family, Jake's belief in the importance of college may be influenced by his parents' educational background and the experiences of his older sister, who is currently in community college.",
+          "alignment_with_response": "The stated belief aligns with the survey response, as Jake's strong belief in college importance suggests he would likely select 'Very Important' if asked."
+        },
+        "social_media_stress": {
+          "belief_description": "Jake views social media as supportive in his daily life, suggesting that he perceives it as a positive tool for connection and communication rather than a source of stress. This belief may reflect a balanced approach to social media, where he acknowledges its benefits while possibly being aware of its potential downsides.",
+          "certainty": "high",
+          "demographic_influence": "As a 17-year-old male in a suburban environment, Jake's moderate social media intensity may lead him to appreciate its supportive aspects, aligning with the social norms of his peer group.",
+          "alignment_with_response": "The stated belief aligns with the survey response, indicating that he would likely lean towards 'Somewhat Disagree' regarding social media increasing stress."
+        },
+        "school_start_times": {
+          "belief_description": "Jake supports the idea of later school start times, reflecting his understanding of the importance of sleep and its impact on mental health and academic performance. This belief aligns with his broader concerns about mental health and stress, suggesting he values well-being in the educational context.",
+          "certainty": "high",
+          "demographic_influence": "Being a high school student, Jake is likely aware of the challenges faced by his peers regarding sleep and academic pressure, which may shape his support for later start times.",
+          "alignment_with_response": "The stated belief aligns with the survey response, as he would likely choose 'Support' or 'Strongly Support' for later school start times."
+        }
+      },
+      "final_responses": {},
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          }
+        ]
+      }
+    },
+    {
+      "persona_index": 45,
+      "demographics": {
+        "age": 16,
+        "gender": "Female",
+        "race": "White",
+        "sexual_orientation": "Heterosexual",
+        "family_income": 31735.89309618596,
+        "gpa": 3.3027539617254087,
+        "mental_health": "Fair",
+        "social_media_intensity": "High",
+        "college_intention": "4-year college",
+        "sports_participation": false,
+        "first_gen_college": false
+      },
+      "text_beliefs": {
+        "college importance and future plans": "The persona believes that college importance and future plans is important.",
+        "social media impact on daily life": "The persona somewhat believes that social media impact on daily life is somewhat supportive.",
+        "school start times and sleep": "The persona strongly believes that school start times and sleep is very supportive.",
+        "mental health and stress": "The persona believes that mental health and stress is supportive.",
+        "academic pressure and expectations": "The persona strongly believes that academic pressure and expectations is very supportive."
+      },
+      "narrative": "Sophia Bennett is a 16-year-old high school junior living in a small town in Ohio. Raised in a modest household by her single mother, Sarah, Sophia has learned early on the value of hard work and perseverance. Sarah, who works as a nursing assistant, often juggles multiple shifts to make ends meet, which has instilled in Sophia a strong sense of responsibility. They have a close but occasionally strained relationship; Sarah's long hours leave little time for family activities, but they bond over",
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "Sophia strongly believes that college is important for her future. This belief likely stems from her awareness of the competitive job market and the value placed on higher education in her community.",
+          "certainty": "high",
+          "demographic_influence": "Being a first-generation college student, she may feel a heightened sense of responsibility to succeed academically and pursue higher education, influenced by her mother's hard work and sacrifices.",
+          "alignment_with_response": "The stated belief aligns with the survey response indicating that she views college as very important."
+        },
+        "social_media_stress": {
+          "belief_description": "Sophia somewhat believes that social media has a supportive impact on her daily life, suggesting she recognizes both its benefits and potential stressors. This ambivalence may reflect her high social media intensity and the pressures it can create among peers.",
+          "certainty": "medium",
+          "demographic_influence": "As a teenager in a digital age, her high social media usage may lead to mixed feelings about its role in her life, balancing connection with the stress of online interactions.",
+          "alignment_with_response": "The stated belief somewhat aligns with the survey response, though the survey does not capture her nuanced view on social media's impact on stress."
+        },
+        "school_start_times": {
+          "belief_description": "Sophia strongly believes that later school start times would be beneficial, indicating her awareness of the importance of sleep for academic performance and mental health. This belief may be influenced by her own experiences with sleep deprivation and stress.",
+          "certainty": "high",
+          "demographic_influence": "Her fair mental health status and academic pressures may make her more sensitive to the effects of sleep on her well-being, reinforcing her support for later start times.",
+          "alignment_with_response": "The stated belief aligns with the survey response, as she would likely support later school start times."
+        }
+      },
+      "final_responses": {},
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          }
+        ]
+      }
+    },
+    {
+      "persona_index": 44,
+      "demographics": {
+        "age": 18,
+        "gender": "Female",
+        "race": "White",
+        "sexual_orientation": "Heterosexual",
+        "family_income": 38294.49976407559,
+        "gpa": 2.1867903183786783,
+        "mental_health": "Fair",
+        "social_media_intensity": "Moderate",
+        "college_intention": "Other",
+        "sports_participation": false,
+        "first_gen_college": false
+      },
+      "text_beliefs": {
+        "college importance and future plans": "The persona believes that college importance and future plans is important.",
+        "social media impact on daily life": "The persona strongly believes that social media impact on daily life is very supportive.",
+        "school start times and sleep": "The persona believes that school start times and sleep is supportive.",
+        "mental health and stress": "The persona strongly believes that mental health and stress is very supportive.",
+        "academic pressure and expectations": "The persona strongly believes that academic pressure and expectations is very supportive."
+      },
+      "narrative": "Megan Thompson is an 18-year-old high school senior who lives in a small town in Ohio. Raised in a modest household, her family income of $38,294 has meant that financial stability has always been a concern. Megan\u2019s parents, both high school graduates, have worked multiple jobs to provide for her and her two younger brothers, often juggling their schedules and responsibilities. The pressure of family obligations has weighed heavily on Megan, contributing to her fair mental health status. Her par",
+      "llm_interpretations": {
+        "college_importance": {
+          "belief_description": "Megan believes that college is important for her future, indicating an awareness of its potential role in achieving her goals. Despite her current GPA of 2.19, which may suggest challenges in her academic journey, she recognizes the value of higher education in shaping her career path.",
+          "certainty": "high",
+          "demographic_influence": "Megan's background as a first-generation college student may heighten her awareness of the importance of college, especially given her family's modest income and the pressure to improve their financial situation.",
+          "alignment_with_response": "The stated belief aligns with the survey response, as she likely would choose 'Very Important' regarding college's role in her future."
+        },
+        "social_media_stress": {
+          "belief_description": "Megan strongly believes that social media has a supportive impact on daily life, suggesting she views it as a positive tool for connection and communication. This belief may reflect her moderate social media intensity, indicating she utilizes these platforms to maintain social ties and manage stress.",
+          "certainty": "high",
+          "demographic_influence": "As a high school senior, Megan is part of a generation that heavily engages with social media, which may shape her perception of its benefits in providing social support amidst her academic pressures.",
+          "alignment_with_response": "The stated belief aligns with the survey response, as she would likely disagree with the notion that social media increases stress."
+        },
+        "school_start_times": {
+          "belief_description": "Megan believes that later school start times are supportive, reflecting her understanding of the importance of sleep for mental health and academic performance. This belief may stem from her own experiences with stress and the need for adequate rest to cope with her responsibilities.",
+          "certainty": "high",
+          "demographic_influence": "Given her fair mental health status and the pressures from family obligations, Megan's belief in the need for later start times may be influenced by her desire for better sleep and reduced stress.",
+          "alignment_with_response": "The stated belief aligns with the survey response, as she would likely support later school start times."
+        }
+      },
+      "final_responses": {},
+      "responses_over_time": {
+        "college_importance": [
+          {
+            "round": 0,
+            "distribution": {
+              "Very Important": 43,
+              "Not Very Important": 17,
+              "Not Important At All": 20,
+              "Somewhat Important": 20
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Very Important": 50,
+              "Not Very Important": 14,
+              "Not Important At All": 13,
+              "Somewhat Important": 23
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Very Important": 54,
+              "Somewhat Important": 23,
+              "Not Important At All": 12,
+              "Not Very Important": 11
+            },
+            "total": 100
+          }
+        ],
+        "social_media_stress": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Agree": 56,
+              "Strongly Disagree": 44
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Agree": 60,
+              "Strongly Disagree": 40
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Agree": 63,
+              "Strongly Disagree": 37
+            },
+            "total": 100
+          }
+        ],
+        "school_start_times": [
+          {
+            "round": 0,
+            "distribution": {
+              "Strongly Support": 58,
+              "Strongly Oppose": 42
+            },
+            "total": 100
+          },
+          {
+            "round": 1,
+            "distribution": {
+              "Strongly Support": 61,
+              "Strongly Oppose": 39
+            },
+            "total": 100
+          },
+          {
+            "round": 2,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 3,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 4,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          },
+          {
+            "round": 5,
+            "distribution": {
+              "Strongly Support": 62,
+              "Strongly Oppose": 38
+            },
+            "total": 100
+          }
+        ]
+      }
+    }
+  ]
+}

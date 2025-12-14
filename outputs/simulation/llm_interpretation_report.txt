@@ -1,0 +1,594 @@
+================================================================================
+LLM INTERPRETATION REPORT: TEXT-BASED BELIEFS
+================================================================================
+
+Generated: 2025-12-14T12:07:52.237354
+System Type: original_text_based
+Total Personas: 100
+Sample Size: 5
+Random Seed: 42
+
+================================================================================
+PERSONA 1 (Index 83)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 16, Gender: Male, Race: Hispanic
+  GPA: 2.44, Mental Health: Good
+  Social Media: Almost Constant
+  College Intention: Other
+  Family Income: $183,123
+
+STATED TEXT BELIEFS:
+  college importance and future plans: The persona strongly believes that college importance and future plans is very important.
+  social media impact on daily life: The persona strongly believes that social media impact on daily life is very supportive.
+  school start times and sleep: The persona strongly believes that school start times and sleep is very supportive.
+  mental health and stress: The persona strongly believes that mental health and stress is very supportive.
+  academic pressure and expectations: The persona strongly believes that academic pressure and expectations is very supportive.
+
+NARRATIVE/BACKGROUND:
+  Carlos Mendoza, a 16-year-old high school junior, has always navigated life with a blend of optimism and pragmatism. Born into a close-knit family in a suburban neighborhood of Houston, Texas, Carlos is the middle child of three siblings. His parents, both Mexican immigrants, worked hard to provide ...
+
+LLM INTERPRETATIONS OF TEXT BELIEFS:
+
+  How important is college to your future?:
+    Belief: Carlos strongly believes that college is crucial for his future, indicating a clear understanding of its role in achieving personal and professional goals. This belief likely stems from his family's emphasis on hard work and education, reflecting a desire to build on their sacrifices and succeed academically.
+    Certainty: high
+    Demographic Influence: As a first-generation college student, Carlos may feel a heightened sense of responsibility to pursue higher education, influenced by his parents' immigrant background and their aspirations for him.
+    Alignment with Response: The stated belief aligns with the survey response, as he views college as very important.
+
+  Do you feel social media increases stress?:
+    Belief: Carlos believes that social media has a supportive impact on his daily life, suggesting he finds it beneficial for maintaining connections and expressing himself. This perspective may indicate that he utilizes social media as a positive outlet rather than a source of stress.
+    Certainty: high
+    Demographic Influence: Being part of the LGBTQ+ community and a frequent social media user, Carlos may rely on these platforms for support and affirmation, shaping his positive view of their role in his life.
+    Alignment with Response: The stated belief aligns with the survey response, as he perceives social media as supportive rather than a source of stress.
+
+  Would you support later school start times?:
+    Belief: Carlos strongly supports the idea of later school start times, reflecting his awareness of the importance of sleep for mental health and academic performance. His belief suggests a recognition of the challenges faced by students in balancing academic demands with personal well-being.
+    Certainty: high
+    Demographic Influence: His good mental health and active participation in sports may lead him to advocate for changes that promote better sleep and overall health, aligning with broader trends among adolescents.
+    Alignment with Response: The stated belief aligns with the survey response, as he supports the idea of later school start times.
+
+FINAL SURVEY RESPONSES: Not available
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Very Important: 43 (43.0%)
+      Not Important At All: 20 (20.0%)
+      Somewhat Important: 20 (20.0%)
+      Not Very Important: 17 (17.0%)
+    Round 1:
+      Very Important: 50 (50.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Very Important: 14 (14.0%)
+      Not Important At All: 13 (13.0%)
+    Round 2:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 3:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 4:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 5:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 56 (56.0%)
+      Strongly Disagree: 44 (44.0%)
+    Round 1:
+      Strongly Agree: 60 (60.0%)
+      Strongly Disagree: 40 (40.0%)
+    Round 2:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 3:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 4:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 5:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 58 (58.0%)
+      Strongly Oppose: 42 (42.0%)
+    Round 1:
+      Strongly Support: 61 (61.0%)
+      Strongly Oppose: 39 (39.0%)
+    Round 2:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 3:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 4:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 5:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+
+================================================================================
+PERSONA 2 (Index 53)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 18, Gender: Male, Race: White
+  GPA: 3.01, Mental Health: Poor
+  Social Media: High
+  College Intention: Other
+  Family Income: $13,077
+
+STATED TEXT BELIEFS:
+  college importance and future plans: The persona strongly believes that college importance and future plans is very important.
+  social media impact on daily life: The persona somewhat believes that social media impact on daily life is somewhat supportive.
+  school start times and sleep: The persona strongly believes that school start times and sleep is very supportive.
+  mental health and stress: The persona believes that mental health and stress is supportive.
+  academic pressure and expectations: The persona believes that academic pressure and expectations is supportive.
+
+NARRATIVE/BACKGROUND:
+  Ethan Mitchell, an 18-year-old high school senior from a small suburban town in Ohio, has always felt a bit out of place. Growing up in a modest household with his single mother, who works multiple jobs to make ends meet, he often found solace in sports, particularly soccer, which became a crucial o...
+
+LLM INTERPRETATIONS OF TEXT BELIEFS:
+
+  How important is college to your future?:
+    Belief: Ethan strongly believes that college is very important for his future, reflecting a desire for upward mobility and a better life than what he has experienced so far. This belief may stem from his awareness of his family's financial struggles and his mother's sacrifices, motivating him to pursue higher education as a means to improve his circumstances.
+    Certainty: high
+    Demographic Influence: As a first-generation college student from a low-income background, Ethan's belief in the importance of college is likely influenced by his aspiration to break the cycle of poverty and achieve a better future.
+    Alignment with Response: The stated belief aligns with the survey response indicating a strong belief in college's importance.
+
+  Do you feel social media increases stress?:
+    Belief: Ethan somewhat believes that social media has a supportive impact on his daily life, suggesting that he finds some value in it, possibly for social connection or self-expression. However, this belief may also indicate an awareness of the potential stressors associated with social media, particularly given his mental health challenges.
+    Certainty: medium
+    Demographic Influence: His high social media intensity may lead him to recognize both the positive and negative aspects of social media, especially as a member of the LGBTQ+ community seeking connection and support.
+    Alignment with Response: The stated belief does not directly align with the survey response, as there are no recorded responses to the social media stress question.
+
+  Would you support later school start times?:
+    Belief: Ethan strongly believes that later school start times are very supportive, indicating a recognition of the importance of sleep for mental health and academic performance. This belief aligns with his own struggles with mental health, suggesting he advocates for changes that could benefit students like himself.
+    Certainty: high
+    Demographic Influence: His poor mental health and experience with academic pressure may shape his strong belief in the need for later start times, as he likely understands the detrimental effects of sleep deprivation.
+    Alignment with Response: The stated belief aligns with the survey response indicating strong support for later school start times.
+
+FINAL SURVEY RESPONSES: Not available
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Very Important: 43 (43.0%)
+      Not Important At All: 20 (20.0%)
+      Somewhat Important: 20 (20.0%)
+      Not Very Important: 17 (17.0%)
+    Round 1:
+      Very Important: 50 (50.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Very Important: 14 (14.0%)
+      Not Important At All: 13 (13.0%)
+    Round 2:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 3:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 4:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 5:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 56 (56.0%)
+      Strongly Disagree: 44 (44.0%)
+    Round 1:
+      Strongly Agree: 60 (60.0%)
+      Strongly Disagree: 40 (40.0%)
+    Round 2:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 3:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 4:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 5:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 58 (58.0%)
+      Strongly Oppose: 42 (42.0%)
+    Round 1:
+      Strongly Support: 61 (61.0%)
+      Strongly Oppose: 39 (39.0%)
+    Round 2:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 3:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 4:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 5:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+
+================================================================================
+PERSONA 3 (Index 70)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 17, Gender: Male, Race: White
+  GPA: 2.54, Mental Health: Fair
+  Social Media: Moderate
+  College Intention: Other
+  Family Income: $59,816
+
+STATED TEXT BELIEFS:
+  college importance and future plans: The persona strongly believes that college importance and future plans is very important.
+  social media impact on daily life: The persona believes that social media impact on daily life is supportive.
+  school start times and sleep: The persona believes that school start times and sleep is supportive.
+  mental health and stress: The persona strongly believes that mental health and stress is very supportive.
+  academic pressure and expectations: The persona strongly believes that academic pressure and expectations is very supportive.
+
+NARRATIVE/BACKGROUND:
+  Jake Thompson, a 17-year-old high school senior from a suburban neighborhood in Ohio, has always navigated the world with a blend of enthusiasm and uncertainty. Growing up in a middle-class family, Jake is the second of three siblings, with an older sister attending community college and a younger b...
+
+LLM INTERPRETATIONS OF TEXT BELIEFS:
+
+  How important is college to your future?:
+    Belief: Jake strongly believes that college is very important for his future, indicating a clear recognition of the role higher education plays in achieving his career goals and personal aspirations. This belief may stem from his family's emphasis on hard work and the value of education, as well as the societal expectations surrounding college attendance.
+    Certainty: high
+    Demographic Influence: As a high school senior from a middle-class family, Jake's belief in the importance of college may be influenced by his parents' educational background and the experiences of his older sister, who is currently in community college.
+    Alignment with Response: The stated belief aligns with the survey response, as Jake's strong belief in college importance suggests he would likely select 'Very Important' if asked.
+
+  Do you feel social media increases stress?:
+    Belief: Jake views social media as supportive in his daily life, suggesting that he perceives it as a positive tool for connection and communication rather than a source of stress. This belief may reflect a balanced approach to social media, where he acknowledges its benefits while possibly being aware of its potential downsides.
+    Certainty: high
+    Demographic Influence: As a 17-year-old male in a suburban environment, Jake's moderate social media intensity may lead him to appreciate its supportive aspects, aligning with the social norms of his peer group.
+    Alignment with Response: The stated belief aligns with the survey response, indicating that he would likely lean towards 'Somewhat Disagree' regarding social media increasing stress.
+
+  Would you support later school start times?:
+    Belief: Jake supports the idea of later school start times, reflecting his understanding of the importance of sleep and its impact on mental health and academic performance. This belief aligns with his broader concerns about mental health and stress, suggesting he values well-being in the educational context.
+    Certainty: high
+    Demographic Influence: Being a high school student, Jake is likely aware of the challenges faced by his peers regarding sleep and academic pressure, which may shape his support for later start times.
+    Alignment with Response: The stated belief aligns with the survey response, as he would likely choose 'Support' or 'Strongly Support' for later school start times.
+
+FINAL SURVEY RESPONSES: Not available
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Very Important: 43 (43.0%)
+      Not Important At All: 20 (20.0%)
+      Somewhat Important: 20 (20.0%)
+      Not Very Important: 17 (17.0%)
+    Round 1:
+      Very Important: 50 (50.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Very Important: 14 (14.0%)
+      Not Important At All: 13 (13.0%)
+    Round 2:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 3:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 4:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 5:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 56 (56.0%)
+      Strongly Disagree: 44 (44.0%)
+    Round 1:
+      Strongly Agree: 60 (60.0%)
+      Strongly Disagree: 40 (40.0%)
+    Round 2:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 3:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 4:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 5:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 58 (58.0%)
+      Strongly Oppose: 42 (42.0%)
+    Round 1:
+      Strongly Support: 61 (61.0%)
+      Strongly Oppose: 39 (39.0%)
+    Round 2:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 3:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 4:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 5:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+
+================================================================================
+PERSONA 4 (Index 45)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 16, Gender: Female, Race: White
+  GPA: 3.30, Mental Health: Fair
+  Social Media: High
+  College Intention: 4-year college
+  Family Income: $31,736
+
+STATED TEXT BELIEFS:
+  college importance and future plans: The persona believes that college importance and future plans is important.
+  social media impact on daily life: The persona somewhat believes that social media impact on daily life is somewhat supportive.
+  school start times and sleep: The persona strongly believes that school start times and sleep is very supportive.
+  mental health and stress: The persona believes that mental health and stress is supportive.
+  academic pressure and expectations: The persona strongly believes that academic pressure and expectations is very supportive.
+
+NARRATIVE/BACKGROUND:
+  Sophia Bennett is a 16-year-old high school junior living in a small town in Ohio. Raised in a modest household by her single mother, Sarah, Sophia has learned early on the value of hard work and perseverance. Sarah, who works as a nursing assistant, often juggles multiple shifts to make ends meet, ...
+
+LLM INTERPRETATIONS OF TEXT BELIEFS:
+
+  How important is college to your future?:
+    Belief: Sophia strongly believes that college is important for her future. This belief likely stems from her awareness of the competitive job market and the value placed on higher education in her community.
+    Certainty: high
+    Demographic Influence: Being a first-generation college student, she may feel a heightened sense of responsibility to succeed academically and pursue higher education, influenced by her mother's hard work and sacrifices.
+    Alignment with Response: The stated belief aligns with the survey response indicating that she views college as very important.
+
+  Do you feel social media increases stress?:
+    Belief: Sophia somewhat believes that social media has a supportive impact on her daily life, suggesting she recognizes both its benefits and potential stressors. This ambivalence may reflect her high social media intensity and the pressures it can create among peers.
+    Certainty: medium
+    Demographic Influence: As a teenager in a digital age, her high social media usage may lead to mixed feelings about its role in her life, balancing connection with the stress of online interactions.
+    Alignment with Response: The stated belief somewhat aligns with the survey response, though the survey does not capture her nuanced view on social media's impact on stress.
+
+  Would you support later school start times?:
+    Belief: Sophia strongly believes that later school start times would be beneficial, indicating her awareness of the importance of sleep for academic performance and mental health. This belief may be influenced by her own experiences with sleep deprivation and stress.
+    Certainty: high
+    Demographic Influence: Her fair mental health status and academic pressures may make her more sensitive to the effects of sleep on her well-being, reinforcing her support for later start times.
+    Alignment with Response: The stated belief aligns with the survey response, as she would likely support later school start times.
+
+FINAL SURVEY RESPONSES: Not available
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Very Important: 43 (43.0%)
+      Not Important At All: 20 (20.0%)
+      Somewhat Important: 20 (20.0%)
+      Not Very Important: 17 (17.0%)
+    Round 1:
+      Very Important: 50 (50.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Very Important: 14 (14.0%)
+      Not Important At All: 13 (13.0%)
+    Round 2:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 3:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 4:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 5:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 56 (56.0%)
+      Strongly Disagree: 44 (44.0%)
+    Round 1:
+      Strongly Agree: 60 (60.0%)
+      Strongly Disagree: 40 (40.0%)
+    Round 2:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 3:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 4:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 5:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 58 (58.0%)
+      Strongly Oppose: 42 (42.0%)
+    Round 1:
+      Strongly Support: 61 (61.0%)
+      Strongly Oppose: 39 (39.0%)
+    Round 2:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 3:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 4:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 5:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+
+================================================================================
+PERSONA 5 (Index 44)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 18, Gender: Female, Race: White
+  GPA: 2.19, Mental Health: Fair
+  Social Media: Moderate
+  College Intention: Other
+  Family Income: $38,294
+
+STATED TEXT BELIEFS:
+  college importance and future plans: The persona believes that college importance and future plans is important.
+  social media impact on daily life: The persona strongly believes that social media impact on daily life is very supportive.
+  school start times and sleep: The persona believes that school start times and sleep is supportive.
+  mental health and stress: The persona strongly believes that mental health and stress is very supportive.
+  academic pressure and expectations: The persona strongly believes that academic pressure and expectations is very supportive.
+
+NARRATIVE/BACKGROUND:
+  Megan Thompson is an 18-year-old high school senior who lives in a small town in Ohio. Raised in a modest household, her family income of $38,294 has meant that financial stability has always been a concern. Megan’s parents, both high school graduates, have worked multiple jobs to provide for her an...
+
+LLM INTERPRETATIONS OF TEXT BELIEFS:
+
+  How important is college to your future?:
+    Belief: Megan believes that college is important for her future, indicating an awareness of its potential role in achieving her goals. Despite her current GPA of 2.19, which may suggest challenges in her academic journey, she recognizes the value of higher education in shaping her career path.
+    Certainty: high
+    Demographic Influence: Megan's background as a first-generation college student may heighten her awareness of the importance of college, especially given her family's modest income and the pressure to improve their financial situation.
+    Alignment with Response: The stated belief aligns with the survey response, as she likely would choose 'Very Important' regarding college's role in her future.
+
+  Do you feel social media increases stress?:
+    Belief: Megan strongly believes that social media has a supportive impact on daily life, suggesting she views it as a positive tool for connection and communication. This belief may reflect her moderate social media intensity, indicating she utilizes these platforms to maintain social ties and manage stress.
+    Certainty: high
+    Demographic Influence: As a high school senior, Megan is part of a generation that heavily engages with social media, which may shape her perception of its benefits in providing social support amidst her academic pressures.
+    Alignment with Response: The stated belief aligns with the survey response, as she would likely disagree with the notion that social media increases stress.
+
+  Would you support later school start times?:
+    Belief: Megan believes that later school start times are supportive, reflecting her understanding of the importance of sleep for mental health and academic performance. This belief may stem from her own experiences with stress and the need for adequate rest to cope with her responsibilities.
+    Certainty: high
+    Demographic Influence: Given her fair mental health status and the pressures from family obligations, Megan's belief in the need for later start times may be influenced by her desire for better sleep and reduced stress.
+    Alignment with Response: The stated belief aligns with the survey response, as she would likely support later school start times.
+
+FINAL SURVEY RESPONSES: Not available
+
+RESPONSES OVER TIME (Aggregate Distributions):
+
+  How important is college to your future?:
+    Round 0:
+      Very Important: 43 (43.0%)
+      Not Important At All: 20 (20.0%)
+      Somewhat Important: 20 (20.0%)
+      Not Very Important: 17 (17.0%)
+    Round 1:
+      Very Important: 50 (50.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Very Important: 14 (14.0%)
+      Not Important At All: 13 (13.0%)
+    Round 2:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 3:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 4:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+    Round 5:
+      Very Important: 54 (54.0%)
+      Somewhat Important: 23 (23.0%)
+      Not Important At All: 12 (12.0%)
+      Not Very Important: 11 (11.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 56 (56.0%)
+      Strongly Disagree: 44 (44.0%)
+    Round 1:
+      Strongly Agree: 60 (60.0%)
+      Strongly Disagree: 40 (40.0%)
+    Round 2:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 3:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 4:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+    Round 5:
+      Strongly Agree: 63 (63.0%)
+      Strongly Disagree: 37 (37.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 58 (58.0%)
+      Strongly Oppose: 42 (42.0%)
+    Round 1:
+      Strongly Support: 61 (61.0%)
+      Strongly Oppose: 39 (39.0%)
+    Round 2:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 3:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 4:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)
+    Round 5:
+      Strongly Support: 62 (62.0%)
+      Strongly Oppose: 38 (38.0%)

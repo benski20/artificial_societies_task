@@ -1,0 +1,622 @@
+================================================================================
+INFLUENCE NETWORK ANALYSIS REPORT
+================================================================================
+
+Generated: 2025-12-14T12:16:53.318443
+System Type: vector
+Total Personas: 100
+Sample Size: 8
+
+NETWORK STATISTICS:
+  Social Edges: 200
+  Social Density: 0.0404
+  Average Influence Weight: 0.0860
+  Active Influences: 400
+
+================================================================================
+PERSONA 1 (Index 83)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 16, Gender: Male, Race: Hispanic
+  GPA: 2.44, Mental Health: Good
+  Social Media: Almost Constant
+
+INFLUENCE NETWORK POSITION:
+  Incoming Influences: 4 (people who influence this persona)
+  Outgoing Influences: 4 (people this persona influences)
+  Avg Incoming Weight: 0.0813
+  Avg Outgoing Weight: 0.0813
+
+LLM INTERPRETATION:
+  Role: bridge
+  Strength: medium
+  Key Traits: socially active, relatable, peer-oriented
+  Patterns: This persona has a balanced influence network, where they both receive and provide similar levels of influence to peers. They are connected to high-achieving individuals, which may enhance their credibility and relatability among their peers.
+  Social Position: This persona acts as a bridge between high-achieving students and their peers, potentially facilitating the exchange of ideas and behaviors, which may help them navigate their social environment effectively despite their lower GPA.
+
+TOP 5 INFLUENCERS (who influence this persona):
+  1. Persona 81: weight=0.1104
+     (18, Male, White, GPA: 4.00)
+  2. Persona 82: weight=0.0826
+     (16, Female, Two or more races, GPA: 4.00)
+  3. Persona 0: weight=0.0700
+     (16, Female, Black, GPA: 2.86)
+  4. Persona 48: weight=0.0621
+     (18, Female, White, GPA: 2.83)
+
+TOP 5 INFLUENCED (who this persona influences):
+  1. Persona 81: weight=0.1104
+     (18, Male, White, GPA: 4.00)
+  2. Persona 82: weight=0.0826
+     (16, Female, Two or more races, GPA: 4.00)
+  3. Persona 0: weight=0.0700
+     (16, Female, Black, GPA: 2.86)
+  4. Persona 48: weight=0.0621
+     (18, Female, White, GPA: 2.83)
+
+RESPONSES OVER TIME (Aggregate):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+
+================================================================================
+PERSONA 2 (Index 53)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 18, Gender: Male, Race: White
+  GPA: 3.01, Mental Health: Poor
+  Social Media: High
+
+INFLUENCE NETWORK POSITION:
+  Incoming Influences: 4 (people who influence this persona)
+  Outgoing Influences: 4 (people this persona influences)
+  Avg Incoming Weight: 0.1132
+  Avg Outgoing Weight: 0.1132
+
+LLM INTERPRETATION:
+  Role: bridge
+  Strength: medium
+  Key Traits: high social media engagement, peer relatability, average academic performance
+  Patterns: This persona has an equal number of incoming and outgoing influences, suggesting a balanced role in the network where they both receive and provide influence. The weights of influence are similar, indicating that their impact on others is comparable to the impact they receive.
+  Social Position: As a bridge in the network, this persona connects different groups of peers, potentially facilitating communication and influence across diverse demographics. Their medium influence strength suggests they are respected and engaged, but may not be the most dominant voice in their social circles.
+
+TOP 5 INFLUENCERS (who influence this persona):
+  1. Persona 51: weight=0.1185
+     (17, Male, White, GPA: 3.10)
+  2. Persona 52: weight=0.1169
+     (16, Male, Black, GPA: 2.46)
+  3. Persona 54: weight=0.1137
+     (17, Male, Black, GPA: 2.19)
+  4. Persona 55: weight=0.1038
+     (16, Male, Black, GPA: 3.27)
+
+TOP 5 INFLUENCED (who this persona influences):
+  1. Persona 51: weight=0.1185
+     (17, Male, White, GPA: 3.10)
+  2. Persona 52: weight=0.1169
+     (16, Male, Black, GPA: 2.46)
+  3. Persona 54: weight=0.1137
+     (17, Male, Black, GPA: 2.19)
+  4. Persona 55: weight=0.1038
+     (16, Male, Black, GPA: 3.27)
+
+RESPONSES OVER TIME (Aggregate):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+
+================================================================================
+PERSONA 3 (Index 70)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 17, Gender: Male, Race: White
+  GPA: 2.54, Mental Health: Fair
+  Social Media: Moderate
+
+INFLUENCE NETWORK POSITION:
+  Incoming Influences: 4 (people who influence this persona)
+  Outgoing Influences: 4 (people this persona influences)
+  Avg Incoming Weight: 0.0737
+  Avg Outgoing Weight: 0.0737
+
+LLM INTERPRETATION:
+  Role: bridge
+  Strength: medium
+  Key Traits: moderate social media presence, peer connections, average GPA
+  Patterns: This persona influences peers of similar age and GPA, suggesting a reciprocal relationship where they share common experiences and challenges. They are positioned to connect different groups within their social network.
+  Social Position: This persona serves as a bridge in their social network, linking peers with varying academic performances and backgrounds. Their medium influence suggests they are respected but not dominant, likely due to their average GPA and fair mental health status.
+
+TOP 5 INFLUENCERS (who influence this persona):
+  1. Persona 71: weight=0.1129
+     (18, Male, White, GPA: 2.76)
+  2. Persona 68: weight=0.0843
+     (16, Female, White, GPA: 2.50)
+  3. Persona 72: weight=0.0599
+     (18, Male, Two or more races, GPA: 2.90)
+  4. Persona 69: weight=0.0376
+     (17, Female, Asian, GPA: 3.30)
+
+TOP 5 INFLUENCED (who this persona influences):
+  1. Persona 71: weight=0.1129
+     (18, Male, White, GPA: 2.76)
+  2. Persona 68: weight=0.0843
+     (16, Female, White, GPA: 2.50)
+  3. Persona 72: weight=0.0599
+     (18, Male, Two or more races, GPA: 2.90)
+  4. Persona 69: weight=0.0376
+     (17, Female, Asian, GPA: 3.30)
+
+RESPONSES OVER TIME (Aggregate):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+
+================================================================================
+PERSONA 4 (Index 45)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 16, Gender: Female, Race: White
+  GPA: 3.30, Mental Health: Fair
+  Social Media: High
+
+INFLUENCE NETWORK POSITION:
+  Incoming Influences: 3 (people who influence this persona)
+  Outgoing Influences: 3 (people this persona influences)
+  Avg Incoming Weight: 0.0852
+  Avg Outgoing Weight: 0.0852
+
+LLM INTERPRETATION:
+  Role: bridge
+  Strength: medium
+  Key Traits: social media savvy, peer relatability, moderate academic performance
+  Patterns: This persona has a balanced influence network with equal incoming and outgoing influences, suggesting they are both a recipient and a provider of social influence. The weights of influence are relatively low, indicating that while they are connected, the impact of their influence may not be particularly strong.
+  Social Position: The persona occupies a central role in the network, acting as a bridge between different groups, which allows them to facilitate connections and share information across diverse social circles.
+
+TOP 5 INFLUENCERS (who influence this persona):
+  1. Persona 30: weight=0.0899
+     (18, Female, Hispanic, GPA: 2.11)
+  2. Persona 46: weight=0.0856
+     (18, Male, White, GPA: 2.23)
+  3. Persona 43: weight=0.0802
+     (17, Male, Asian, GPA: 3.10)
+
+TOP 5 INFLUENCED (who this persona influences):
+  1. Persona 30: weight=0.0899
+     (18, Female, Hispanic, GPA: 2.11)
+  2. Persona 46: weight=0.0856
+     (18, Male, White, GPA: 2.23)
+  3. Persona 43: weight=0.0802
+     (17, Male, Asian, GPA: 3.10)
+
+RESPONSES OVER TIME (Aggregate):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+
+================================================================================
+PERSONA 5 (Index 44)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 18, Gender: Female, Race: White
+  GPA: 2.19, Mental Health: Fair
+  Social Media: Moderate
+
+INFLUENCE NETWORK POSITION:
+  Incoming Influences: 3 (people who influence this persona)
+  Outgoing Influences: 3 (people this persona influences)
+  Avg Incoming Weight: 0.0990
+  Avg Outgoing Weight: 0.0990
+
+LLM INTERPRETATION:
+  Role: bridge
+  Strength: medium
+  Key Traits: socially connected, moderate social media presence, peer influence
+  Patterns: The persona influences and is influenced by the same individuals, indicating a reciprocal relationship that suggests mutual respect and shared experiences. This may also indicate that they are part of a close-knit group where influence flows both ways.
+  Social Position: The persona occupies a bridging position within their social network, connecting peers who might not otherwise interact. This suggests they play a critical role in facilitating communication and influence among their peers, despite their lower GPA and fair mental health status.
+
+TOP 5 INFLUENCERS (who influence this persona):
+  1. Persona 26: weight=0.1202
+     (18, Male, Black, GPA: 2.42)
+  2. Persona 46: weight=0.0898
+     (18, Male, White, GPA: 2.23)
+  3. Persona 43: weight=0.0871
+     (17, Male, Asian, GPA: 3.10)
+
+TOP 5 INFLUENCED (who this persona influences):
+  1. Persona 26: weight=0.1202
+     (18, Male, Black, GPA: 2.42)
+  2. Persona 46: weight=0.0898
+     (18, Male, White, GPA: 2.23)
+  3. Persona 43: weight=0.0871
+     (17, Male, Asian, GPA: 3.10)
+
+RESPONSES OVER TIME (Aggregate):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+
+================================================================================
+PERSONA 6 (Index 39)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 16, Gender: Female, Race: Two or more races
+  GPA: 3.60, Mental Health: Good
+  Social Media: High
+
+INFLUENCE NETWORK POSITION:
+  Incoming Influences: 3 (people who influence this persona)
+  Outgoing Influences: 3 (people this persona influences)
+  Avg Incoming Weight: 0.0868
+  Avg Outgoing Weight: 0.0868
+
+LLM INTERPRETATION:
+  Role: bridge
+  Strength: medium
+  Key Traits: good academic performance, social media engagement, positive mental health
+  Patterns: The persona has an equal number of incoming and outgoing influences, suggesting a balanced position in the network. They influence peers with varying GPA levels, indicating a potential role in peer support and guidance.
+  Social Position: The persona serves as a bridge between different academic performance levels, allowing for the exchange of ideas and support among peers. Their good mental health and social media presence may enhance their ability to connect with others.
+
+TOP 5 INFLUENCERS (who influence this persona):
+  1. Persona 40: weight=0.1058
+     (16, Male, White, GPA: 4.00)
+  2. Persona 41: weight=0.0863
+     (17, Male, White, GPA: 2.37)
+  3. Persona 38: weight=0.0682
+     (16, Female, Hispanic, GPA: 2.97)
+
+TOP 5 INFLUENCED (who this persona influences):
+  1. Persona 40: weight=0.1058
+     (16, Male, White, GPA: 4.00)
+  2. Persona 41: weight=0.0863
+     (17, Male, White, GPA: 2.37)
+  3. Persona 38: weight=0.0682
+     (16, Female, Hispanic, GPA: 2.97)
+
+RESPONSES OVER TIME (Aggregate):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+
+================================================================================
+PERSONA 7 (Index 22)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 18, Gender: Male, Race: White
+  GPA: 3.23, Mental Health: Poor
+  Social Media: Moderate
+
+INFLUENCE NETWORK POSITION:
+  Incoming Influences: 4 (people who influence this persona)
+  Outgoing Influences: 4 (people this persona influences)
+  Avg Incoming Weight: 0.0777
+  Avg Outgoing Weight: 0.0777
+
+LLM INTERPRETATION:
+  Role: bridge
+  Strength: medium
+  Key Traits: moderate social media presence, peer connections, academic average
+  Patterns: The persona influences and is influenced by peers of similar age and gender, indicating a reciprocal relationship. They are positioned in a way that allows them to connect different groups within their social network.
+  Social Position: The persona acts as a bridge between different social circles, allowing for the exchange of ideas and influences. Their moderate GPA and poor mental health may limit their influence, but their connections suggest they are respected among peers.
+
+TOP 5 INFLUENCERS (who influence this persona):
+  1. Persona 20: weight=0.0980
+     (16, Male, Asian, GPA: 4.00)
+  2. Persona 21: weight=0.0933
+     (18, Male, Black, GPA: 3.42)
+  3. Persona 24: weight=0.0658
+     (18, Male, White, GPA: 2.97)
+  4. Persona 12: weight=0.0539
+     (16, Female, Two or more races, GPA: 2.34)
+
+TOP 5 INFLUENCED (who this persona influences):
+  1. Persona 20: weight=0.0980
+     (16, Male, Asian, GPA: 4.00)
+  2. Persona 21: weight=0.0933
+     (18, Male, Black, GPA: 3.42)
+  3. Persona 24: weight=0.0658
+     (18, Male, White, GPA: 2.97)
+  4. Persona 12: weight=0.0539
+     (16, Female, Two or more races, GPA: 2.34)
+
+RESPONSES OVER TIME (Aggregate):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
+
+================================================================================
+PERSONA 8 (Index 80)
+================================================================================
+
+DEMOGRAPHICS:
+  Age: 17, Gender: Female, Race: White
+  GPA: 3.83, Mental Health: Poor
+  Social Media: Low
+
+INFLUENCE NETWORK POSITION:
+  Incoming Influences: 5 (people who influence this persona)
+  Outgoing Influences: 5 (people this persona influences)
+  Avg Incoming Weight: 0.0954
+  Avg Outgoing Weight: 0.0954
+
+LLM INTERPRETATION:
+  Role: bridge
+  Strength: medium
+  Key Traits: high GPA, academic orientation, peer connections
+  Patterns: This persona influences and is influenced by peers with varying GPAs, suggesting a balance between academic and social influences. They maintain connections with both high-achieving and lower-achieving peers, indicating a potential role in mediating between different social groups.
+  Social Position: The persona occupies a central position in the network, acting as a bridge between different groups. Their medium influence strength suggests they are respected and valued by their peers, but their poor mental health may limit their ability to leverage this influence fully.
+
+TOP 5 INFLUENCERS (who influence this persona):
+  1. Persona 79: weight=0.1065
+     (17, Female, Hispanic, GPA: 2.32)
+  2. Persona 20: weight=0.1016
+     (16, Male, Asian, GPA: 4.00)
+  3. Persona 82: weight=0.0933
+     (16, Female, Two or more races, GPA: 4.00)
+  4. Persona 41: weight=0.0916
+     (17, Male, White, GPA: 2.37)
+  5. Persona 78: weight=0.0839
+     (18, Female, White, GPA: 3.94)
+
+TOP 5 INFLUENCED (who this persona influences):
+  1. Persona 79: weight=0.1065
+     (17, Female, Hispanic, GPA: 2.32)
+  2. Persona 20: weight=0.1016
+     (16, Male, Asian, GPA: 4.00)
+  3. Persona 82: weight=0.0933
+     (16, Female, Two or more races, GPA: 4.00)
+  4. Persona 41: weight=0.0916
+     (17, Male, White, GPA: 2.37)
+  5. Persona 78: weight=0.0839
+     (18, Female, White, GPA: 3.94)
+
+RESPONSES OVER TIME (Aggregate):
+
+  How important is college to your future?:
+    Round 0:
+      Not Important At All: 26 (26.0%)
+      Not Very Important: 26 (26.0%)
+    Round 1:
+      Not Important At All: 28 (28.0%)
+      Very Important: 25 (25.0%)
+    Round 2:
+      Very Important: 29 (29.0%)
+      Not Very Important: 25 (25.0%)
+
+  Do you feel social media increases stress?:
+    Round 0:
+      Strongly Agree: 28 (28.0%)
+      Strongly Disagree: 24 (24.0%)
+    Round 1:
+      Somewhat Agree: 23 (23.0%)
+      Neither Agree nor Disagree: 20 (20.0%)
+    Round 2:
+      Strongly Agree: 26 (26.0%)
+      Somewhat Agree: 20 (20.0%)
+
+  Would you support later school start times?:
+    Round 0:
+      Strongly Support: 26 (26.0%)
+      Neutral: 22 (22.0%)
+    Round 1:
+      Strongly Oppose: 28 (28.0%)
+      Oppose: 21 (21.0%)
+    Round 2:
+      Strongly Oppose: 30 (30.0%)
+      Neutral: 22 (22.0%)
