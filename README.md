@@ -2,9 +2,9 @@
 
 A comprehensive framework for generating 100 synthetic personas representing U.S. high school students (ages 16-18) using multiple methodologies, with LLM augmentation for narrative richness.
 
-## 🗺️ **New to this project? Start here:**
+## **New to this project? Start here:**
 
-👉 **[PROJECT_NAVIGATION.md](PROJECT_NAVIGATION.md)** - A comprehensive stream-of-consciousness guide to navigating this codebase. Perfect for understanding the project structure, workflow, and how everything connects.
+👉 **[PROJECT_NAVIGATION.md](PROJECT_NAVIGATION.md)** - A comprehensive guide to navigating this codebase. 
 
 ## Quick Links
 
@@ -106,15 +106,6 @@ Three generation methodologies are implemented:
 3. **Stratified Sampling**: Most representative, guaranteed demographic coverage
 
 See `persona_methodology_guide.md` for detailed methodology comparison.
-
-## Features
-
-- ✅ Statistical distribution-based generation
-- ✅ LLM augmentation for narrative richness
-- ✅ Survey response generation
-- 🔄 Network models (in progress)
-- 🔄 Temporal dynamics (planned)
-- 🔄 Embedding-based similarity (planned)
 
 ## Research Foundation
 
