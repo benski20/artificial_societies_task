@@ -412,7 +412,7 @@ Further...
 The original system tries using text as it may be interpretable.
 The vector system tries to leverage vectors on every level which in my mind is more realistic --> included more nuance, variability etc. that seemed to emulate and achieve human behavior (and compared within reasonable margin of real polling results). 
 
-Look forward to hearing your thoughts! Just want to say, I absolutley loved this challenge (and reading through your paper which was interesting in and of itself)! So many ways I could go with this, add to it and more -- I did only have about 5-6 hours end-to-end so I tried to read through as much as I can from your work, social networks, behavioral concepts and apply that to the problem. Enjoy! 
+Look forward to hearing your thoughts! Just want to say, I absolutely loved this challenge (and reading through your paper which was interesting in and of itself)! So many ways I could go with this, add to it and more -- I did only have about 5-6 hours end-to-end so I tried to read through as much as I can from your work, social networks, behavioral concepts and apply that to the problem. Enjoy! 
 ---
 
 *Last updated: December 2024*
