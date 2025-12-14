@@ -1,0 +1,200 @@
+{
+  "college_importance": [
+    {
+      "round": 0,
+      "distribution": {
+        "Not Important At All": 26,
+        "Not Very Important": 26,
+        "Somewhat Important": 26,
+        "Very Important": 22
+      },
+      "total": 100
+    },
+    {
+      "round": 1,
+      "distribution": {
+        "Very Important": 25,
+        "Not Important At All": 28,
+        "Somewhat Important": 25,
+        "Not Very Important": 22
+      },
+      "total": 100
+    },
+    {
+      "round": 2,
+      "distribution": {
+        "Very Important": 29,
+        "Somewhat Important": 23,
+        "Not Important At All": 23,
+        "Not Very Important": 25
+      },
+      "total": 100
+    },
+    {
+      "round": 3,
+      "distribution": {
+        "Not Very Important": 22,
+        "Very Important": 27,
+        "Not Important At All": 27,
+        "Somewhat Important": 24
+      },
+      "total": 100
+    },
+    {
+      "round": 4,
+      "distribution": {
+        "Somewhat Important": 30,
+        "Not Important At All": 29,
+        "Very Important": 17,
+        "Not Very Important": 24
+      },
+      "total": 100
+    },
+    {
+      "round": 5,
+      "distribution": {
+        "Not Important At All": 23,
+        "Very Important": 30,
+        "Not Very Important": 23,
+        "Somewhat Important": 24
+      },
+      "total": 100
+    }
+  ],
+  "social_media_stress": [
+    {
+      "round": 0,
+      "distribution": {
+        "Neither Agree nor Disagree": 13,
+        "Strongly Agree": 28,
+        "Somewhat Disagree": 17,
+        "Somewhat Agree": 18,
+        "Strongly Disagree": 24
+      },
+      "total": 100
+    },
+    {
+      "round": 1,
+      "distribution": {
+        "Strongly Agree": 19,
+        "Somewhat Disagree": 18,
+        "Somewhat Agree": 23,
+        "Neither Agree nor Disagree": 20,
+        "Strongly Disagree": 20
+      },
+      "total": 100
+    },
+    {
+      "round": 2,
+      "distribution": {
+        "Strongly Disagree": 19,
+        "Somewhat Disagree": 15,
+        "Somewhat Agree": 20,
+        "Neither Agree nor Disagree": 20,
+        "Strongly Agree": 26
+      },
+      "total": 100
+    },
+    {
+      "round": 3,
+      "distribution": {
+        "Neither Agree nor Disagree": 20,
+        "Strongly Agree": 30,
+        "Somewhat Disagree": 18,
+        "Strongly Disagree": 17,
+        "Somewhat Agree": 15
+      },
+      "total": 100
+    },
+    {
+      "round": 4,
+      "distribution": {
+        "Somewhat Disagree": 19,
+        "Strongly Disagree": 18,
+        "Strongly Agree": 21,
+        "Somewhat Agree": 23,
+        "Neither Agree nor Disagree": 19
+      },
+      "total": 100
+    },
+    {
+      "round": 5,
+      "distribution": {
+        "Strongly Disagree": 21,
+        "Neither Agree nor Disagree": 23,
+        "Somewhat Disagree": 14,
+        "Strongly Agree": 19,
+        "Somewhat Agree": 23
+      },
+      "total": 100
+    }
+  ],
+  "school_start_times": [
+    {
+      "round": 0,
+      "distribution": {
+        "Strongly Oppose": 17,
+        "Strongly Support": 26,
+        "Neutral": 22,
+        "Oppose": 21,
+        "Support": 14
+      },
+      "total": 100
+    },
+    {
+      "round": 1,
+      "distribution": {
+        "Oppose": 21,
+        "Strongly Oppose": 28,
+        "Support": 11,
+        "Strongly Support": 20,
+        "Neutral": 20
+      },
+      "total": 100
+    },
+    {
+      "round": 2,
+      "distribution": {
+        "Neutral": 22,
+        "Support": 19,
+        "Oppose": 14,
+        "Strongly Oppose": 30,
+        "Strongly Support": 15
+      },
+      "total": 100
+    },
+    {
+      "round": 3,
+      "distribution": {
+        "Strongly Support": 18,
+        "Strongly Oppose": 23,
+        "Support": 22,
+        "Oppose": 21,
+        "Neutral": 16
+      },
+      "total": 100
+    },
+    {
+      "round": 4,
+      "distribution": {
+        "Strongly Support": 18,
+        "Support": 26,
+        "Strongly Oppose": 16,
+        "Oppose": 23,
+        "Neutral": 17
+      },
+      "total": 100
+    },
+    {
+      "round": 5,
+      "distribution": {
+        "Strongly Support": 13,
+        "Oppose": 21,
+        "Support": 25,
+        "Neutral": 24,
+        "Strongly Oppose": 17
+      },
+      "total": 100
+    }
+  ]
+}
