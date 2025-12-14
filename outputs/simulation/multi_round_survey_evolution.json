@@ -1,0 +1,164 @@
+{
+  "college_importance": [
+    {
+      "round": 0,
+      "distribution": {
+        "Very Important": 43,
+        "Not Very Important": 17,
+        "Not Important At All": 20,
+        "Somewhat Important": 20
+      },
+      "total": 100
+    },
+    {
+      "round": 1,
+      "distribution": {
+        "Very Important": 50,
+        "Not Very Important": 14,
+        "Not Important At All": 13,
+        "Somewhat Important": 23
+      },
+      "total": 100
+    },
+    {
+      "round": 2,
+      "distribution": {
+        "Very Important": 54,
+        "Somewhat Important": 23,
+        "Not Important At All": 12,
+        "Not Very Important": 11
+      },
+      "total": 100
+    },
+    {
+      "round": 3,
+      "distribution": {
+        "Very Important": 54,
+        "Somewhat Important": 23,
+        "Not Important At All": 12,
+        "Not Very Important": 11
+      },
+      "total": 100
+    },
+    {
+      "round": 4,
+      "distribution": {
+        "Very Important": 54,
+        "Somewhat Important": 23,
+        "Not Important At All": 12,
+        "Not Very Important": 11
+      },
+      "total": 100
+    },
+    {
+      "round": 5,
+      "distribution": {
+        "Very Important": 54,
+        "Somewhat Important": 23,
+        "Not Important At All": 12,
+        "Not Very Important": 11
+      },
+      "total": 100
+    }
+  ],
+  "social_media_stress": [
+    {
+      "round": 0,
+      "distribution": {
+        "Strongly Agree": 56,
+        "Strongly Disagree": 44
+      },
+      "total": 100
+    },
+    {
+      "round": 1,
+      "distribution": {
+        "Strongly Agree": 60,
+        "Strongly Disagree": 40
+      },
+      "total": 100
+    },
+    {
+      "round": 2,
+      "distribution": {
+        "Strongly Agree": 63,
+        "Strongly Disagree": 37
+      },
+      "total": 100
+    },
+    {
+      "round": 3,
+      "distribution": {
+        "Strongly Agree": 63,
+        "Strongly Disagree": 37
+      },
+      "total": 100
+    },
+    {
+      "round": 4,
+      "distribution": {
+        "Strongly Agree": 63,
+        "Strongly Disagree": 37
+      },
+      "total": 100
+    },
+    {
+      "round": 5,
+      "distribution": {
+        "Strongly Agree": 63,
+        "Strongly Disagree": 37
+      },
+      "total": 100
+    }
+  ],
+  "school_start_times": [
+    {
+      "round": 0,
+      "distribution": {
+        "Strongly Support": 58,
+        "Strongly Oppose": 42
+      },
+      "total": 100
+    },
+    {
+      "round": 1,
+      "distribution": {
+        "Strongly Support": 61,
+        "Strongly Oppose": 39
+      },
+      "total": 100
+    },
+    {
+      "round": 2,
+      "distribution": {
+        "Strongly Support": 62,
+        "Strongly Oppose": 38
+      },
+      "total": 100
+    },
+    {
+      "round": 3,
+      "distribution": {
+        "Strongly Support": 62,
+        "Strongly Oppose": 38
+      },
+      "total": 100
+    },
+    {
+      "round": 4,
+      "distribution": {
+        "Strongly Support": 62,
+        "Strongly Oppose": 38
+      },
+      "total": 100
+    },
+    {
+      "round": 5,
+      "distribution": {
+        "Strongly Support": 62,
+        "Strongly Oppose": 38
+      },
+      "total": 100
+    }
+  ]
+}

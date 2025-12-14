@@ -1,0 +1,1208 @@
+{
+  "college_importance": [
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Somewhat Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Very Important",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Not Important At All",
+      "method": "probabilistic"
+    }
+  ],
+  "social_media_stress": [
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Agree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Disagree",
+      "method": "probabilistic"
+    }
+  ],
+  "school_start_times": [
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Support",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    },
+    {
+      "response": "Strongly Oppose",
+      "method": "probabilistic"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "n_personas": 100,
+    "social_edges": 200,
+    "cognitive_edges": 4950,
+    "active_influences": 400,
+    "avg_influence_weight": 0.11592377610504627,
+    "max_influence_weight": 0.14206527471542357,
+    "social_density": 0.04040404040404041,
+    "cognitive_density": 1.0
+  },
+  {
+    "n_personas": 100,
+    "social_edges": 200,
+    "cognitive_edges": 4950,
+    "active_influences": 400,
+    "avg_influence_weight": 0.11592377597093581,
+    "max_influence_weight": 0.14206527471542357,
+    "social_density": 0.04040404040404041,
+    "cognitive_density": 1.0
+  },
+  {
+    "n_personas": 100,
+    "social_edges": 200,
+    "cognitive_edges": 4950,
+    "active_influences": 400,
+    "avg_influence_weight": 0.11592377610504627,
+    "max_influence_weight": 0.14206527471542357,
+    "social_density": 0.04040404040404041,
+    "cognitive_density": 1.0
+  },
+  {
+    "n_personas": 100,
+    "social_edges": 200,
+    "cognitive_edges": 4950,
+    "active_influences": 400,
+    "avg_influence_weight": 0.11592377610504627,
+    "max_influence_weight": 0.14206527471542357,
+    "social_density": 0.04040404040404041,
+    "cognitive_density": 1.0
+  },
+  {
+    "n_personas": 100,
+    "social_edges": 200,
+    "cognitive_edges": 4950,
+    "active_influences": 400,
+    "avg_influence_weight": 0.11592377610504627,
+    "max_influence_weight": 0.14206527471542357,
+    "social_density": 0.04040404040404041,
+    "cognitive_density": 1.0
+  },
+  {
+    "n_personas": 100,
+    "social_edges": 200,
+    "cognitive_edges": 4950,
+    "active_influences": 400,
+    "avg_influence_weight": 0.11592377610504627,
+    "max_influence_weight": 0.14206527471542357,
+    "social_density": 0.04040404040404041,
+    "cognitive_density": 1.0
+  }
+]
