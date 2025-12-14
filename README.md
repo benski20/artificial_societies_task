@@ -2,9 +2,9 @@
 
 A comprehensive framework for generating 100 synthetic personas representing U.S. high school students (ages 16-18) using multiple methodologies, with LLM augmentation for narrative richness.
 
-## **New to this project? Start here:**
+## Start here:**
 
-👉 **[PROJECT_NAVIGATION.md](PROJECT_NAVIGATION.md)** - A comprehensive guide to navigating this codebase. 
+ **[PROJECT_NAVIGATION.md](PROJECT_NAVIGATION.md)** - A comprehensive guide to navigating this codebase. 
 
 ## Quick Links
 
